@@ -11,6 +11,8 @@ import { useScrollPosition } from '@n8tb1t/use-scroll-position';
 
 // Custom Components
 import useWindowDimensions from '../../hooks/useWindowDimensions';
+import log from './Logger';
+const logger = log.getLogger('Animated');
 
 // Animations that are available
 const fadeInDownKeyframes = keyframes`${fadeInDown}`;
@@ -24,7 +26,7 @@ const visibleAnimation = css`
 	${props => (props.isVisible ? props.keyframeAnimation : '')};
 `;
 const AnimatedDiv = styled.div`
-	animation: ${props => props.duration || 2}s ${visibleAnimation};
+	animation: ${props => props.duration}s ${visibleAnimation};
 	visibility: ${props => (props.isVisible ? 'visible' : 'hidden')};
 `;
 
@@ -34,6 +36,10 @@ const Animated = ({ animation, duration, children }) => {
 	const { height } = useWindowDimensions();
 	const [viewportBoundaryLine, setViewportBoundaryLine] = useState(height);
 	const [isVisible, setIsVisible] = useState(false);
+
+	if(!duration){
+		duration = 2;
+	}
 
 	// Position of the Viewport
 	useScrollPosition(
@@ -52,7 +58,7 @@ const Animated = ({ animation, duration, children }) => {
 		[isVisible, viewportBoundaryLine],
 		null,
 		true,
-		300
+		600
 	);
 
 	// Position of this element
@@ -66,13 +72,14 @@ const Animated = ({ animation, duration, children }) => {
 			const y = currPos.y;
 
 			if (y < height || y <= viewportBoundaryLine) {
+				logger.debug(`Now visible, showing animation for ${duration} seconds.`, y, currPos, divRef)
 				setIsVisible(true);
 			}
 		},
 		[isVisible, viewportBoundaryLine],
 		divRef,
 		false,
-		300
+		600
 	);
 
 	// This is to fire after the first render for anything that is already in view
@@ -90,7 +97,7 @@ const Animated = ({ animation, duration, children }) => {
 			if (isVisible) {
 				setIsVisible(true);
 			}
-		}, 10);
+		}, 600);
 	}, []);
 
 	return useMemo(

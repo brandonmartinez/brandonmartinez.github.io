@@ -2,7 +2,7 @@
 title: 'Web Editor, Photographer'
 company: 'Ferris State Torch'
 companyUri: 'https://fsutorch.com/'
-icon: 'experience-fsutorch.png'
+icon: 'fsutorch.png'
 startDate: '2009-05-01'
 endDate: '2010-06-01'
 location: 'Big Rapids, MI'

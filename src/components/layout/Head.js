@@ -1,5 +1,11 @@
 import Head from 'next/head';
 
+// Custom Components
+import Images from 'components/shared/Images';
+
+const favicon = Images.requireSiteOriginal('./favicon.png');
+const appleTouchIcon = Images.requireSiteOriginal('./apple-touch-icon.png');
+
 export default () => (
 	<Head>
 		{/* Meta */}
@@ -16,45 +22,15 @@ export default () => (
 		/>
 
 		{/* Icons */}
-		<link rel='shortcut icon' href='/images/favicon.png' async />
+		<link rel='shortcut icon' href={favicon} async />
 
-		<link
-			rel='apple-touch-icon'
-			sizes='57x57'
-			href='/images/apple-touch-icon.png'
-			async
-		/>
-		<link
-			rel='apple-touch-icon'
-			sizes='72x72'
-			href='/images/apple-touch-icon.png'
-			async
-		/>
-		<link
-			rel='apple-touch-icon'
-			sizes='76x76'
-			href='/images/apple-touch-icon.png'
-			async
-		/>
-		<link
-			rel='apple-touch-icon'
-			sizes='114x114'
-			href='/images/apple-touch-icon.png'
-			async
-		/>
-		<link
-			rel='apple-touch-icon'
-			sizes='120x120'
-			href='/images/apple-touch-icon.png'
-			async
-		/>
-		<link
-			rel='apple-touch-icon'
-			sizes='152x152'
-			href='/images/apple-touch-icon.png'
-			async
-		/>
-		<link rel='apple-touch-icon' href='/images/apple-touch-icon.png' async />
+		<link rel='apple-touch-icon' sizes='57x57' href={appleTouchIcon} async />
+		<link rel='apple-touch-icon' sizes='72x72' href={appleTouchIcon} async />
+		<link rel='apple-touch-icon' sizes='76x76' href={appleTouchIcon} async />
+		<link rel='apple-touch-icon' sizes='114x114' href={appleTouchIcon} async />
+		<link rel='apple-touch-icon' sizes='120x120' href={appleTouchIcon} async />
+		<link rel='apple-touch-icon' sizes='152x152' href={appleTouchIcon} async />
+		<link rel='apple-touch-icon' href={appleTouchIcon} async />
 
 		{/* Styles */}
 		<link

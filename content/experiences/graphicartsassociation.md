@@ -2,7 +2,7 @@
 title: 'Commissioner at Large, Member'
 company: 'Graphic Arts Association'
 companyUri: 'https://www.linkedin.com/in/graphic-arts-association-74104a17/'
-icon: 'experience-graphicartsassociation.svg'
+icon: 'graphicartsassociation.svg'
 startDate: '2008-09-01'
 endDate: '2010-05-01'
 location: 'Big Rapids, MI'

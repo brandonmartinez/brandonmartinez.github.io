@@ -2,7 +2,7 @@
 title: 'High School Graduate'
 company: 'Ludington High School'
 companyUri: 'https://www.lasd.net/'
-icon: 'experience-ludingtonhighschool.png'
+icon: 'ludingtonhighschool.png'
 description: 'High school student.'
 startDate: '2001-09-01'
 endDate: '2006-06-01'

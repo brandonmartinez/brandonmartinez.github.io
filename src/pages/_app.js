@@ -4,11 +4,13 @@ import NextApp from 'next/app';
 import React from 'react';
 
 // Site Styling
-import ThemeProviderTheme from '../components/layout/ThemeProviderTheme';
+import Images from 'components/shared/Images';
+import ThemeProviderTheme from 'components/layout/ThemeProviderTheme';
 
 export default class App extends NextApp {
 	render() {
 		const { Component, pageProps } = this.props;
+		const openGraphImage = Images.requireSiteOriginal('./opengraph-large.png');
 		return (
 			<ThemeProvider theme={ThemeProviderTheme}>
 				<DefaultSeo
@@ -19,7 +21,7 @@ export default class App extends NextApp {
 						site_name: 'brandon martinez',
 						images: [
 							{
-								url: require('../../public/images/opengraph-large.png'),
+								url: openGraphImage,
 								width: 1200,
 								height: 630,
 								alt: 'brandon martinez'

@@ -4,8 +4,7 @@ import Masthead from '../shared/Masthead';
 
 const Header = ({ backgroundImage, title, subtitle, heightPercentage }) => {
 	if (!backgroundImage) {
-		const coverPhotoNumber = Math.floor(Math.random() * 6) + 1;
-		backgroundImage = `/images/cover-${coverPhotoNumber}.jpg`;
+		backgroundImage = './mastheads/001.jpg';
 	}
 
 	return (

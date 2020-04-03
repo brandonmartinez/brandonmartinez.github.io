@@ -2,7 +2,7 @@
 title: 'Lead Software Developer'
 company: 'Independent Printing Company, Inc.'
 companyUri: 'http://www.independentinc.com/'
-icon: 'experience-independentprintinccompanyinc.png'
+icon: 'independentprintinccompanyinc.png'
 iconBackground: '#000'
 startDate: '2009-05-01'
 endDate: '2012-06-01'

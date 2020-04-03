@@ -2,7 +2,7 @@
 title: 'Podcaster'
 company: 'The Average Enthusiasts'
 companyUri: 'http://www.theaverageenthusiasts.com/'
-icon: 'experience-theaverageenthusiasts.svg'
+icon: 'theaverageenthusiasts.svg'
 iconBackground: '#e74c3c'
 startDate: '2017-09-17'
 location: 'Ludington, MI'

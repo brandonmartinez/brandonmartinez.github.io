@@ -6,14 +6,15 @@ import Row from 'react-bootstrap/Row';
 import styled from 'styled-components';
 
 // Custom Components
-import Section from './Section';
 import Animated from '../shared/Animated';
+import Images from 'components/shared/Images';
+import Section from './Section';
 
 const StyledAvatarImage = styled.img`
 	max-width: 100%;
 	height: auto;
 `;
-const avatarImgSrc = require('../../../public/images/avatar.jpg?resize&sizes[]=300&sizes[]=600&sizes[]=1000');
+const avatarImgSrc = Images.requireSite('./avatar.jpg');
 const Avatar = () => (
 	<Animated.FromLeft>
 		<StyledAvatarImage
@@ -45,7 +46,7 @@ const SocialAccount = ({ social, className }) => (
 			rel='noreferrer'
 		>
 			<img
-				src={require(`../../../public/images/social-${social.toLowerCase()}.svg`)}
+				src={Images.requireSocial('./' + social.toLowerCase() + '.svg')}
 				className='social-account-image'
 				alt={`${social} icon`}
 				title={`Find me on ${social}.`}
@@ -53,12 +54,12 @@ const SocialAccount = ({ social, className }) => (
 		</a>
 	</div>
 );
-
 const StyledSocialAccount = styled(SocialAccount)`
 	width: 20%;
 	margin: 0 5% 5% 0;
 	float: left;
-	@media only screen and (max-width: ${props => props.theme.breakpointMedium}) {
+	@media only screen and (max-width: ${(props) =>
+			props.theme.breakpointMedium}) {
 		margin: 0 2.5% 2.5% 0;
 		width: 10%;
 	}

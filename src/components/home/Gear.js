@@ -6,8 +6,8 @@ import Row from 'react-bootstrap/Row';
 import styled from 'styled-components';
 
 // Custom Components
-import Section from './Section';
 import Animated from '../shared/Animated';
+import Section from './Section';
 
 const GearItemContent = ({ item, className }) => (
 	<Col md='4' className={className}>
@@ -28,7 +28,7 @@ const StyledGearItemContent = styled(GearItemContent)`
 
 	.image-container {
 		background-position: center center;
-		background-image: url(${props => props.item.mastheadUri});
+		background-image: url(${props => props.item.thumbnailUri});
 		background-size: cover;
 		margin-bottom: ${props => props.theme.gutter};
 		width: 100%;
@@ -74,7 +74,7 @@ const Gear = ({ data, groupSize, ...rest }) => {
 				passions, and daily life activities completed from start to finish.
 			</Section.Description>
 			{groupedData.map((items, i) => (
-				<Animated.FadeIn duration={i * 2} key={i}>
+				<Animated.FadeIn duration={5} key={i}>
 					<GearGroup items={items} />
 				</Animated.FadeIn>
 			))}

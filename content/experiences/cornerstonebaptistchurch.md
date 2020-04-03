@@ -2,7 +2,7 @@
 title: 'Worship Volunteer'
 company: 'Cornerstone Baptist Church'
 companyUri: 'http://cbcludington.com/'
-icon: 'experience-cornerstonebaptistchurch.svg'
+icon: 'cornerstonebaptistchurch.svg'
 iconBackground: '#1c1bfc'
 startDate: '2010-10-01'
 endDate: '2015-09-01'

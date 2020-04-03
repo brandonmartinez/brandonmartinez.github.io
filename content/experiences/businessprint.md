@@ -2,7 +2,7 @@
 title: 'Front Desk, Typesetting, Print Shop Hand'
 company: 'Business Print, Inc.'
 companyUri: 'https://www.facebook.com/pages/Business-Print/154977197873278'
-icon: 'experience-businessprint.png'
+icon: 'businessprint.png'
 startDate: '2006-06-01'
 endDate: '2008-07-01'
 location: 'Scottville, MI'

@@ -2,7 +2,7 @@
 title: 'Senior Software Engineer'
 company: 'Orion Energy Systems, Inc.'
 companyUri: 'https://www.orionlighting.com/'
-icon: 'experience-orionenergysystems.png'
+icon: 'orionenergysystems.png'
 iconBackground: '#000'
 startDate: '2012-06-01'
 endDate: '2013-11-01'

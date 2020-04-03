@@ -2,7 +2,7 @@
 title: 'Social Media Manager'
 company: 'THAT Conference, NFP'
 companyUri: 'https://www.thatconference.com/'
-icon: 'association-thatconference.svg'
+icon: 'thatconference.svg'
 startDate: '2014-04-01'
 location: 'Remote'
 ---

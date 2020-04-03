@@ -2,7 +2,7 @@
 title: 'Worship, Creative, and Production Volunteer'
 company: 'Radiant Coast'
 companyUri: 'http://www.radiantcoast.org/'
-icon: 'experience-radiantcoast.svg'
+icon: 'radiantcoast.svg'
 iconBackground: '#82ccd4'
 startDate: '2015-10-01'
 location: 'Ludington, MI'

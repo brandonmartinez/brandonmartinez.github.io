@@ -5,10 +5,15 @@ import React from 'react';
 import styled from 'styled-components';
 
 // Custom Components
+import Images from 'components/shared/Images';
 import Section from './Section';
 
 const AssociationImage = ({ className, src }) => (
-	<Card.Img variant='top' src={src} className={className} />
+	<Card.Img
+		variant='top'
+		src={Images.requireAssociation(src)}
+		className={className}
+	/>
 );
 
 const StyledAssociationImage = styled(AssociationImage)`
@@ -54,7 +59,7 @@ const Associations = ({ data, ...rest }) => (
 		<AssociationGroup>
 			<Association
 				title='Skyline Technologies, Inc.'
-				imgSrc='/images/association-skyline.svg'
+				imgSrc='./skyline.svg'
 				href='https://www.skylinetechnologies.com/'
 			>
 				My primary employer. I'm a senior software engineer (and shareholder),
@@ -63,7 +68,7 @@ const Associations = ({ data, ...rest }) => (
 			</Association>
 			<Association
 				title='Martinez Media, LLC'
-				imgSrc='/images/association-martinezmedia.svg'
+				imgSrc='./martinezmedia.svg'
 				href='http://www.martinezmedia.net/'
 			>
 				My side media consulting business. Specializing in photography, social
@@ -73,14 +78,14 @@ const Associations = ({ data, ...rest }) => (
 		<AssociationGroup>
 			<Association
 				title='The Average Enthusiasts'
-				imgSrc='/images/association-theaverageenthusiasts.svg'
+				imgSrc='./theaverageenthusiasts.svg'
 				href='http://www.theaverageenthusiasts.com/'
 			>
 				A bi-weekly podcast that I host with my best friend, Kenny.
 			</Association>
 			<Association
 				title='THAT Conference, NFP'
-				imgSrc='/images/association-thatconference.svg'
+				imgSrc='./thatconference.svg'
 				href='https://www.thatconference.com/'
 			>
 				The biggest tech conference in the Midwest. I'm a core contributor to
@@ -89,7 +94,7 @@ const Associations = ({ data, ...rest }) => (
 			</Association>
 			<Association
 				title='Radiant Coast'
-				imgSrc='/images/association-radiantcoast.svg'
+				imgSrc='./radiantcoast.svg'
 				href='http://www.radiantcoast.org/'
 			>
 				The local church I attend where I serve in the worship, production, and

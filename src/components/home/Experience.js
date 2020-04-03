@@ -6,45 +6,47 @@ import Row from 'react-bootstrap/Row';
 import styled from 'styled-components';
 
 // Custom Components
-import Section from './Section';
 import Animated from '../shared/Animated';
+import Images from 'components/shared/Images';
+import Section from './Section';
 
-const ExperienceTimelineEntry = ({ experience, inverted, className }) => (
-	<Animated.FadeIn>
-		<li
-			className={
-				className + ' ' + (inverted ? 'timeline-inverted' : 'timeline-entry')
-			}
-		>
-			<div className='timeline-badge'>
-				<div className='timeline-badge-wrapper'>
-					<img
-						src={require(`../../../public/images/${experience.icon}`)}
-						alt={`${experience.tile} icon`}
-					/>
+const ExperienceTimelineEntry = ({ experience, inverted, className }) => {
+	const icon = Images.requireExperience('./' + experience.icon);
+
+	return (
+		<Animated.FadeIn duration={5}>
+			<li
+				className={
+					className + ' ' + (inverted ? 'timeline-inverted' : 'timeline-entry')
+				}
+			>
+				<div className='timeline-badge'>
+					<div className='timeline-badge-wrapper'>
+						<img src={icon} alt={`${experience.tile} icon`} />
+					</div>
 				</div>
-			</div>
-			<div className='timeline-panel'>
-				<div className='timeline-heading'>
-					<h4 className='timeline-title'>{experience.title}</h4>
-					<h5>{experience.company}</h5>
-					<p>
-						<small className='text-muted'>
-							{DateTime.fromISO(experience.startDate).toFormat('LLLL yyyy')}{' '}
-							&ndash;{' '}
-							{experience.endDate
-								? DateTime.fromISO(experience.endDate).toFormat('LLLL yyyy')
-								: 'Present'}
-						</small>
-					</p>
+				<div className='timeline-panel'>
+					<div className='timeline-heading'>
+						<h4 className='timeline-title'>{experience.title}</h4>
+						<h5>{experience.company}</h5>
+						<p>
+							<small className='text-muted'>
+								{DateTime.fromISO(experience.startDate).toFormat('LLLL yyyy')}{' '}
+								&ndash;{' '}
+								{experience.endDate
+									? DateTime.fromISO(experience.endDate).toFormat('LLLL yyyy')
+									: 'Present'}
+							</small>
+						</p>
+					</div>
+					<div className='timeline-body'>
+						<ReactMarkdown source={experience.content} />
+					</div>
 				</div>
-				<div className='timeline-body'>
-					<ReactMarkdown source={experience.content} />
-				</div>
-			</div>
-		</li>
-	</Animated.FadeIn>
-);
+			</li>
+		</Animated.FadeIn>
+	);
+};
 const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 	margin-bottom: 3rem;
 	position: relative;
@@ -59,12 +61,12 @@ const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 	> .timeline-panel {
 		width: 44.5%;
 		float: left;
-		border: 0.05rem solid ${props => props.theme.gray};
-		border-radius: ${props => props.theme.borderRadius};
+		border: 0.05rem solid ${(props) => props.theme.gray};
+		border-radius: ${(props) => props.theme.borderRadius};
 		padding: 1rem;
 		position: relative;
-		box-shadow: ${props => props.theme.boxShadowLight};
-		@media only screen and (max-width: ${props =>
+		box-shadow: ${(props) => props.theme.boxShadowLight};
+		@media only screen and (max-width: ${(props) =>
 				props.theme.breakpointMedium}) {
 			width: calc(100% - 6.5rem);
 			float: right;
@@ -75,8 +77,8 @@ const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 			right: -0.76rem;
 			display: inline-block;
 			border-top: 0.75rem solid transparent;
-			border-left: 0.75rem solid ${props => props.theme.gray};
-			border-right: 0 solid ${props => props.theme.gray};
+			border-left: 0.75rem solid ${(props) => props.theme.gray};
+			border-right: 0 solid ${(props) => props.theme.gray};
 			border-bottom: 0.75rem solid transparent;
 			content: ' ';
 		}
@@ -86,12 +88,12 @@ const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 			right: -0.68rem;
 			display: inline-block;
 			border-top: 0.7rem solid transparent;
-			border-left: 0.7rem solid ${props => props.theme.white};
-			border-right: 0 solid ${props => props.theme.white};
+			border-left: 0.7rem solid ${(props) => props.theme.white};
+			border-right: 0 solid ${(props) => props.theme.white};
 			border-bottom: 0.7rem solid transparent;
 			content: ' ';
 		}
-		@media only screen and (max-width: ${props =>
+		@media only screen and (max-width: ${(props) =>
 				props.theme.breakpointMedium}) {
 			&:before,
 			&:after {
@@ -129,7 +131,7 @@ const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 			left: -0.68rem;
 			right: auto;
 		}
-		@media only screen and (max-width: ${props =>
+		@media only screen and (max-width: ${(props) =>
 				props.theme.breakpointMedium}) {
 			&:before,
 			&:after {
@@ -141,15 +143,15 @@ const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 		}
 	}
 	.timeline-badge {
-		background: ${props =>
+		background: ${(props) =>
 			props.experience.iconBackground || props.theme.white};
 		border-bottom-left-radius: 50%;
 		border-bottom-right-radius: 50%;
 		border-top-left-radius: 50%;
 		border-top-right-radius: 50%;
-		border: solid ${props => props.theme.gray} 0.05rem;
-		box-shadow: ${props => props.theme.boxShadowLight};
-		color: ${props => props.theme.white};
+		border: solid ${(props) => props.theme.gray} 0.05rem;
+		box-shadow: ${(props) => props.theme.boxShadowLight};
+		color: ${(props) => props.theme.white};
 		height: 5.5rem;
 		left: 50%;
 		line-height: 5.5rem;
@@ -160,7 +162,7 @@ const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`
 		width: 5.5rem;
 		z-index: 100;
 
-		@media only screen and (max-width: ${props =>
+		@media only screen and (max-width: ${(props) =>
 				props.theme.breakpointMedium}) {
 			left: 0;
 			margin-left: 0;
@@ -203,10 +205,10 @@ const StyledExperienceTimeline = styled(ExperienceTimeline)`
 		position: absolute;
 		content: ' ';
 		width: 0.2rem;
-		background-color: ${props => props.theme.grayLight};
+		background-color: ${(props) => props.theme.grayLight};
 		left: 50%;
 		margin-left: -0.1rem;
-		@media only screen and (max-width: ${props =>
+		@media only screen and (max-width: ${(props) =>
 				props.theme.breakpointMedium}) {
 			left: 2.75rem;
 		}

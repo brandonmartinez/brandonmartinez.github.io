@@ -2,7 +2,7 @@
 title: 'Associates of Applied Science, Network Services'
 company: 'West Shore Community College'
 companyUri: 'https://www.westshore.edu/'
-icon: 'experience-westshorecommunitycollege.png'
+icon: 'westshorecommunitycollege.png'
 iconBackground: '#094c8d'
 startDate: '2006-08-01'
 endDate: '2008-05-01'

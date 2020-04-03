@@ -1,8 +1,9 @@
-const withPlugins = require('next-compose-plugins');
 const optimizedImages = require('next-optimized-images');
+const path = require('path');
+const withPlugins = require('next-compose-plugins');
 
 const nextConfig = {
-	webpack: function(config, { isServer }) {
+	webpack: function (config, { isServer }) {
 		// Fix for using fs
 		if (!isServer) {
 			config.node = {
@@ -10,10 +11,19 @@ const nextConfig = {
 			};
 		}
 
+		// Loaders
 		config.module.rules.push({
 			test: /\.md$/,
 			use: 'raw-loader'
 		});
+
+		// Aliases for contexts
+		// TODO: this is being added to next.js soon, and can be done just via jsconfig.json at that point
+		const basePath = path.resolve(__dirname);
+		config.resolve.alias['~'] = basePath;
+		config.resolve.alias['components'] = path.join(basePath, 'src/components');
+		config.resolve.alias['images'] = path.join(basePath, 'resources/images');
+
 		return config;
 	},
 	exportTrailingSlash: true,
@@ -33,7 +43,11 @@ module.exports = withPlugins(
 		[
 			optimizedImages,
 			{
-				optimizeImagesInDev: true
+				optimizeImagesInDev: true,
+				inlineImageLimit: -1,
+				mozjpeg: {
+					quality: 75
+				}
 			}
 		]
 	],

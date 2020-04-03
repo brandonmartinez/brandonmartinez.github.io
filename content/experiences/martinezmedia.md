@@ -2,7 +2,7 @@
 title: 'Owner, Consultant'
 company: 'Martinez Media, LLC'
 companyUri: 'http://www.martinezmedia.net/'
-icon: 'association-martinezmedia.svg'
+icon: 'martinezmedia.svg'
 startDate: '2011-02-01'
 location: 'Ludington, MI'
 ---

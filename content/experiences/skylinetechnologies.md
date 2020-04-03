@@ -2,7 +2,7 @@
 title: 'Senior Software Engineer II'
 company: 'Skyline Technologies, Inc.'
 companyUri: 'https://www.skylinetechnologies.com/'
-icon: 'association-skyline.svg'
+icon: 'skyline.svg'
 startDate: '2013-12-01'
 location: 'Remote'
 ---

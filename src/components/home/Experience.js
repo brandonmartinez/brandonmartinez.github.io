@@ -14,7 +14,7 @@ const ExperienceTimelineEntry = ({ experience, inverted, className }) => {
 	const icon = Images.requireExperience('./' + experience.icon);
 
 	return (
-		<Animated.FadeIn duration={5}>
+		<Animated.Pulse duration={2}>
 			<li
 				className={
 					className + ' ' + (inverted ? 'timeline-inverted' : 'timeline-entry')
@@ -44,7 +44,7 @@ const ExperienceTimelineEntry = ({ experience, inverted, className }) => {
 					</div>
 				</div>
 			</li>
-		</Animated.FadeIn>
+		</Animated.Pulse>
 	);
 };
 const StyledExperienceTimelineEntry = styled(ExperienceTimelineEntry)`

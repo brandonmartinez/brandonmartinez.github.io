@@ -6,15 +6,15 @@ import styled from 'styled-components';
 // Custom Components
 import About from '../home/About';
 
-const StyledFooterContainer = styled.footer.attrs(props => ({
+const StyledFooterContainer = styled.footer.attrs((props) => ({
 	className: 'pt-4 mt-5'
 }))`
-	background-color: ${props => props.theme.grayDark};
-	border-top: 2rem solid ${props => props.theme.grayExtraDark};
-	color: ${props => props.theme.white};
+	background-color: ${(props) => props.theme.grayDark};
+	border-top: 2rem solid ${(props) => props.theme.grayExtraDark};
+	color: ${(props) => props.theme.white};
 
 	a {
-		color: ${props => props.theme.white};
+		color: ${(props) => props.theme.white};
 		font-weight: bold;
 	}
 `;
@@ -26,7 +26,7 @@ const Footer = () => (
 				<Col md='4' className='mt-md-0 mt-3'>
 					<h5 className='text-uppercase mb-3'>brandon martinez</h5>
 					<About.Avatar />
-					<p>tech guru and media geek</p>
+					<p className='d-sm-block d-md-none'>tech guru and media geek</p>
 				</Col>
 
 				<Col md='4' className='mt-md-0 mt-3'>
@@ -47,6 +47,7 @@ const Footer = () => (
 						<a href='https://www.brandonmartinez.com/'>Brandon Martinez</a>. All
 						Rights Reserved where applicable.
 					</p>
+					<p>Version: {process.env.buildId}</p>
 				</Col>
 			</Row>
 		</Container>

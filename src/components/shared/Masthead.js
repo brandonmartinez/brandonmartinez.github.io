@@ -3,14 +3,12 @@ import styled from 'styled-components';
 // Custom Components
 import Images from 'components/shared/Images';
 import log from './Logger';
-import NoSsr from './NoSsr';
-import useWindowDimensions from '../../hooks/useWindowDimensions';
 const logger = log.getLogger('Masthead');
 
 const StyledHeader = styled.header`
 	margin-bottom: ${(props) => props.theme.gutterLarge};
 	position: relative;
-	height: ${(props) => props.windowHeight * props.heightPercentage}px;
+	height: ${(props) => Math.ceil(100 * props.heightPercentage)}vh;
 	padding-top: 3.75rem;
 `;
 const StyledBackground = styled.div`
@@ -91,7 +89,6 @@ const Masthead = ({
 	className,
 	children
 }) => {
-	const { height } = useWindowDimensions();
 	const backgroundImages = CreateSizedBackgroundImages(backgroundImage);
 
 	if (!heightPercentage) {
@@ -99,20 +96,12 @@ const Masthead = ({
 		heightPercentage = 0.5;
 	}
 
-	// create background images at different sizes
-
 	return (
-		<NoSsr>
-			<StyledHeader
-				heightPercentage={heightPercentage}
-				windowHeight={height}
-				className={className}
-			>
-				<StyledBackground backgroundImages={backgroundImages} />
-				<StyledOverlay />
-				<StyledHeadingContainer>{children}</StyledHeadingContainer>
-			</StyledHeader>
-		</NoSsr>
+		<StyledHeader heightPercentage={heightPercentage} className={className}>
+			<StyledBackground backgroundImages={backgroundImages} />
+			<StyledOverlay />
+			<StyledHeadingContainer>{children}</StyledHeadingContainer>
+		</StyledHeader>
 	);
 };
 

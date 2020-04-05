@@ -9,12 +9,13 @@ const colors = {
 	ERROR: chalk.red
 };
 prefix.reg(log);
-// TODO: configure based on environment
-if (false) {
+
+if (process.env.NODE_ENV === 'production') {
 	log.setDefaultLevel('warn');
 } else {
 	log.enableAll();
 }
+
 prefix.apply(log, {
 	format(level, name, timestamp) {
 		return `${chalk.gray(`[${timestamp}]`)} ${colors[level.toUpperCase()](
@@ -22,6 +23,7 @@ prefix.apply(log, {
 		)} ${chalk.green(`${name}:`)}`;
 	}
 });
+
 prefix.apply(log.getLogger('critical'), {
 	format(level, name, timestamp) {
 		return chalk.red.bold(`[${timestamp}] ${level} ${name}:`);

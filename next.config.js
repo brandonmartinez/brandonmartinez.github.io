@@ -3,6 +3,9 @@ const path = require('path');
 const withPlugins = require('next-compose-plugins');
 
 const nextConfig = {
+	env: {
+		buildId: 'local'
+	},
 	webpack: function (config, { isServer }) {
 		// Fix for using fs
 		if (!isServer) {

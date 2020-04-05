@@ -5,7 +5,8 @@ import {
 	fadeInDown,
 	fadeInLeft,
 	fadeInRight,
-	fadeInUp
+	fadeInUp,
+	pulse
 } from 'react-animations';
 import { useScrollPosition } from '@n8tb1t/use-scroll-position';
 
@@ -20,48 +21,75 @@ const fadeInKeyframes = keyframes`${fadeIn}`;
 const fadeInLeftKeyframes = keyframes`${fadeInLeft}`;
 const fadeInRightKeyframes = keyframes`${fadeInRight}`;
 const fadeInUpKeyframes = keyframes`${fadeInUp}`;
+const pulseKeyframes = keyframes`${fadeIn} ${pulse}`;
 
 // Animation Helpers
 const visibleAnimation = css`
-	${props => (props.isVisible ? props.keyframeAnimation : '')};
+	${(props) => (props.isVisible ? props.keyframeAnimation : '')};
 `;
 const AnimatedDiv = styled.div`
-	animation: ${props => props.duration}s ${visibleAnimation};
-	visibility: ${props => (props.isVisible ? 'visible' : 'hidden')};
+	animation: ${(props) => props.duration}s ${visibleAnimation};
+	visibility: ${(props) => (props.isVisible ? 'visible' : 'hidden')};
 `;
 
-// Main animation logic
-const Animated = ({ animation, duration, children }) => {
-	const divRef = useRef(null);
+// Hooks used in animations
+const useWindowScrollPosition = () => {
 	const { height } = useWindowDimensions();
 	const [viewportBoundaryLine, setViewportBoundaryLine] = useState(height);
-	const [isVisible, setIsVisible] = useState(false);
-
-	if(!duration){
-		duration = 2;
-	}
 
 	// Position of the Viewport
+	// TODO: this should be done globally and then stored in a context, instead of for each component
 	useScrollPosition(
 		({ currPos }) => {
-			// If we're already visible, we're done here
-			if (isVisible) {
-				return;
-			}
-
 			const y = currPos.y;
-			const viewportBuffer = height * 0.2;
-			const boundaryCheckLine = y + height - viewportBuffer;
+			const boundaryCheckLine = y + height;
 
-			setViewportBoundaryLine(boundaryCheckLine);
+			if (boundaryCheckLine > viewportBoundaryLine) {
+				logger.debug(
+					'Viewport Position',
+					`Max Scroll Increased to ${
+						y + height
+					}. Setting boundaryCheckLine to ${boundaryCheckLine}.`
+				);
+
+				setViewportBoundaryLine(boundaryCheckLine);
+			}
 		},
-		[isVisible, viewportBoundaryLine],
+		[viewportBoundaryLine],
 		null,
 		true,
-		600
+		100
 	);
 
-	// Position of this element
+	return { windowHeight: height, viewportBoundaryLine };
+};
+
+const getActualElementCoordinates = (elem) => {
+	const coordinates = { top: 0, left: 0 };
+
+	const box = elem.getBoundingClientRect();
+	if (!box) {
+		return coordinates;
+	}
+
+	const body = document.body;
+	const docEl = document.documentElement;
+
+	const scrollTop = window.pageYOffset || docEl.scrollTop || body.scrollTop;
+	const scrollLeft = window.pageXOffset || docEl.scrollLeft || body.scrollLeft;
+
+	const clientTop = docEl.clientTop || body.clientTop || 0;
+	const clientLeft = docEl.clientLeft || body.clientLeft || 0;
+
+	coordinates.top = Math.round(box.top + scrollTop - clientTop);
+	coordinates.left = Math.round(box.left + scrollLeft - clientLeft);
+
+	return coordinates;
+};
+
+const useRefScrollPosition = ({ ref, windowHeight, viewportBoundaryLine }) => {
+	const [isVisible, setIsVisible] = useState(false);
+
 	useScrollPosition(
 		({ currPos }) => {
 			// If we're already visible, we're done here
@@ -69,36 +97,63 @@ const Animated = ({ animation, duration, children }) => {
 				return;
 			}
 
-			const y = currPos.y;
+			// Get proper coordinates (currPos is relative to the container/viewport)
+			const coords = getActualElementCoordinates(ref.current);
+			// start the animate when the top of the container is within the window by 5%
+			const animateOnY = coords.top + windowHeight * 0.05;
 
-			if (y < height || y <= viewportBoundaryLine) {
-				logger.debug(`Now visible, showing animation for ${duration} seconds.`, y, currPos, divRef)
+			if (animateOnY <= viewportBoundaryLine) {
+				logger.debug(
+					'DOM Element Position',
+					'Scrolled In View',
+					currPos,
+					coords,
+					windowHeight,
+					animateOnY,
+					viewportBoundaryLine,
+					ref.current
+				);
 				setIsVisible(true);
 			}
 		},
 		[isVisible, viewportBoundaryLine],
-		divRef,
+		ref,
 		false,
-		600
+		100
 	);
 
 	// This is to fire after the first render for anything that is already in view
 	useEffect(() => {
-		if (!divRef || !divRef.current) {
+		if (!ref || !ref.current) {
 			return;
 		}
 
-		// we need to set a small timeout here to allow for any dom mutations to complete before checking if we're in view
-		setTimeout(() => {
-			// Get the y position on the page
-			const y = divRef.current.getBoundingClientRect().y;
-			const isVisible = y < height;
+		// Get the y position on the page
+		const y = ref.current.getBoundingClientRect().y;
+		const isVisible = y < windowHeight;
 
-			if (isVisible) {
-				setIsVisible(true);
-			}
-		}, 600);
+		if (isVisible) {
+			logger.debug('DOM Element Position', 'In View on Render', y, ref.current);
+			setIsVisible(true);
+		}
 	}, []);
+
+	return { isVisible };
+};
+
+// Main animation logic
+const Animated = ({ animation, duration, children }) => {
+	const ref = useRef(null);
+	const { windowHeight, viewportBoundaryLine } = useWindowScrollPosition();
+	const { isVisible } = useRefScrollPosition({
+		ref,
+		windowHeight,
+		viewportBoundaryLine
+	});
+
+	if (!duration) {
+		duration = 2;
+	}
 
 	return useMemo(
 		() => (
@@ -106,7 +161,7 @@ const Animated = ({ animation, duration, children }) => {
 				keyframeAnimation={animation}
 				isVisible={isVisible}
 				duration={duration}
-				ref={divRef}
+				ref={ref}
 			>
 				{children}
 			</AnimatedDiv>
@@ -115,13 +170,11 @@ const Animated = ({ animation, duration, children }) => {
 	);
 };
 
-Animated.FromLeft = ({ ...props }) => (
-	Animated({ animation: fadeInLeftKeyframes, ...props })
-);
+Animated.FromLeft = ({ ...props }) =>
+	Animated({ animation: fadeInLeftKeyframes, ...props });
 
-Animated.FadeIn = ({ ...props }) => (
-	Animated({ animation: fadeInKeyframes, ...props })
-);
+Animated.FadeIn = ({ ...props }) =>
+	Animated({ animation: fadeInKeyframes, ...props });
 
 Animated.FromRight = ({ ...props }) =>
 	Animated({ animation: fadeInRightKeyframes, ...props });
@@ -131,5 +184,8 @@ Animated.FromBottom = ({ ...props }) =>
 
 Animated.FromTop = ({ ...props }) =>
 	Animated({ animation: fadeInDownKeyframes, ...props });
+
+Animated.Pulse = ({ ...props }) =>
+	Animated({ animation: pulseKeyframes, ...props });
 
 export default Animated;

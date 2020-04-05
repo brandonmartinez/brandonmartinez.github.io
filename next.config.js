@@ -4,7 +4,10 @@ const withPlugins = require('next-compose-plugins');
 
 const nextConfig = {
 	env: {
-		buildId: 'local'
+		buildId: (process.env.BUILD_BUILDID || 'local').replace(
+			'brandonmartinez_',
+			''
+		)
 	},
 	webpack: function (config, { isServer }) {
 		// Fix for using fs

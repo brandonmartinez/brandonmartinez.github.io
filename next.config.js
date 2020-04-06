@@ -4,7 +4,7 @@ const withPlugins = require('next-compose-plugins');
 
 const nextConfig = {
 	env: {
-		buildId: (process.env.BUILD_BUILDID || 'local').replace(
+		buildId: (process.env.BUILD_BUILDNUMBER || 'local').replace(
 			'brandonmartinez_',
 			''
 		)

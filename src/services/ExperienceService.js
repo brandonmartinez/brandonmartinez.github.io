@@ -15,6 +15,7 @@ class ExperienceService extends BasePostService {
 	mapFileToPost({ file }) {
 		return {
 			absoluteUri: file.route.uri || null,
+			absoluteUriWithSlash: file.route.uri ? file.route.uri + '/' : null,
 			relativeUri: file.route.path || null,
 			title: file.metadata.title || null,
 			content: file.content || null,

@@ -83,8 +83,8 @@ const PostMetadata = ({ post, disqusShortname, disqusConfig }) => (
 const Post = ({ post, isPreview, className, showMetadata }) => {
 	const disqusShortname = 'brandonmartinez';
 	const disqusConfig = {
-		url: post.absoluteUri.replace('https', 'http') + '/',
-		identifier: `${post.id} http://www.brandonmartinez.com/?p=${post.id}`,
+		url: post.absoluteUriWithSlash,
+		identifier: post.absoluteUriWithSlash,
 		title: post.title
 	};
 
@@ -132,14 +132,14 @@ const Post = ({ post, isPreview, className, showMetadata }) => {
 					/>
 				)}
 
-				{/* {!isPreview && (
+				{!isPreview && (
 					<div>
 						<DiscussionEmbed
 							shortname={disqusShortname}
 							config={disqusConfig}
 						/>
 					</div>
-				)} */}
+				)}
 			</Col>
 		</Row>
 	);

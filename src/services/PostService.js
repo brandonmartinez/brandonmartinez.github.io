@@ -29,6 +29,7 @@ class PostService extends BasePostService {
 		return {
 			id,
 			absoluteUri: file.route.uri,
+			absoluteUriWithSlash: file.route.uri + '/',
 			relativeUri: file.route.path,
 			title: file.metadata.title,
 			publishedAt: file.metadata.datetime,

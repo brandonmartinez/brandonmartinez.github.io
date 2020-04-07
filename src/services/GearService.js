@@ -23,6 +23,7 @@ class GearService extends BasePostService {
 
 		return {
 			absoluteUri: file.route.uri,
+			absoluteUriWithSlash: file.route.uri + '/',
 			relativeUri: file.route.path,
 			title: file.metadata.title,
 			content: file.content,

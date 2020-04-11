@@ -35,13 +35,13 @@ site off of WordPress, and it's now being generated with
 [next.js](https://nextjs.org/). The site should be noticeably faster, as I'm
 taking advantage of next.js's ability to render a statically generated site, as
 well as being cheaper to maintain (it's literally just HTML, JS, and CSS sitting
-some cloud storage).
+on some cloud storage).
 
 I'm hoping the desire to pursue the tech also forces my hand a bit to keep this
 a bit more… fresh.
 
 Thanks for coming along this ride with me; looking forward to generating more
-usable content for all of us! And please don't just my old posts too harshly;
+usable content for all of us! And please don't judge my old posts too harshly;
 I'm still trying to clean up some of the old content to fit this new site setup.
 
 And no, this isn't an April Fool's joke!

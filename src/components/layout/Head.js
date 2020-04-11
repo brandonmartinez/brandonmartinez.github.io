@@ -8,11 +8,6 @@ const appleTouchIcon = Images.requireSiteOriginal('./apple-touch-icon.png');
 
 export default () => (
 	<Head>
-		<script
-			data-ad-client='ca-pub-7014118109985024'
-			async
-			src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
-		></script>
 		{/* Meta */}
 		<meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
 		<meta

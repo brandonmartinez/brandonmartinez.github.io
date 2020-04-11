@@ -37,6 +37,7 @@ const StyledPost = styled(Post)`
 		display: block;
 		max-width: 75%;
 		height: auto;
+		max-height: 50vh;
 		margin: 3rem auto 0 auto;
 	}
 `;

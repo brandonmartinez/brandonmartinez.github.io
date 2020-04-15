@@ -1,9 +1,7 @@
 ---
-id: '23111'
 coverImageUri: ''
 title:
   'Resolve an ASP.NET DNX HttpPlatformHandler CGI Application Exception on Azure'
-date: '2015-10-28'
 datetime: '2015-10-28T18:28:15.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,azure web apps'

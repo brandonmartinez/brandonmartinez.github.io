@@ -1,8 +1,6 @@
 ---
-id: '22471'
 coverImageUri: ''
 title: 'Using SignalR Past ASP.NET 5 Beta 5'
-date: '2015-09-16'
 datetime: '2015-09-16T12:00:44.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,signalr'

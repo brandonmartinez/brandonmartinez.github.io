@@ -1,8 +1,6 @@
 ---
-id: "3276"
 coverImageUri: ""
 title: "Quoting and Citing in HTML5"
-date: "2011-07-11"
 datetime: "2011-07-11T13:00:32.000Z"
 categories: "technology"
 tags: "html5"

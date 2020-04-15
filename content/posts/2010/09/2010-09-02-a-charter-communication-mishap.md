@@ -1,8 +1,6 @@
 ---
-id: "2469"
 coverImageUri: ""
 title: "A Charter Communication Mishap"
-date: "2010-09-02"
 datetime: "2010-09-02T00:28:14.000Z"
 categories: "personal"
 tags: "cable,customer service,internet,isp,reviews"

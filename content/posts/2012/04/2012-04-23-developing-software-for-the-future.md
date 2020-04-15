@@ -1,8 +1,6 @@
 ---
-id: "3978"
 coverImageUri: ""
 title: "Developing Software for the Future"
-date: "2012-04-23"
 datetime: "2012-04-23T12:00:21.000Z"
 categories: "technology"
 tags: ".net,programming,software design"

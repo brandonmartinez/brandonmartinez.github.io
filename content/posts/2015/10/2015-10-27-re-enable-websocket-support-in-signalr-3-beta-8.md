@@ -1,8 +1,6 @@
 ---
-id: '23031'
 coverImageUri: ''
 title: 'Re-enable WebSocket Support in SignalR 3 Beta 8'
-date: '2015-10-27'
 datetime: '2015-10-27T14:48:55.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,signalr'

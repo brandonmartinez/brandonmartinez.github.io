@@ -1,8 +1,6 @@
 ---
-id: "3263"
 coverImageUri: ""
 title: "Farewell Floats: The Future of CSS Layout"
-date: "2011-06-30"
 datetime: "2011-06-30T04:46:50.000Z"
 categories: "technology"
 tags: "css,html"

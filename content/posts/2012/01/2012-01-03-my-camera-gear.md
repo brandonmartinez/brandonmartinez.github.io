@@ -1,8 +1,6 @@
 ---
-id: "3648"
 coverImageUri: ""
 title: "My Camera Gear"
-date: "2012-01-03"
 datetime: "2012-01-03T17:00:31.000Z"
 categories: "photography"
 tags: "camera,lenses"

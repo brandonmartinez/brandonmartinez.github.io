@@ -1,8 +1,6 @@
 ---
-id: '25081'
 coverImageUri: ''
 title: 'Back to the Heart of the Matter'
-date: '2016-02-29'
 datetime: '2016-02-29T13:00:56.000Z'
 categories: 'personal'
 tags: 'family,health'

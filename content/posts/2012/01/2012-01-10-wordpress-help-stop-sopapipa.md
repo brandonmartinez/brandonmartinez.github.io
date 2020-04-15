@@ -1,8 +1,6 @@
 ---
-id: "3813"
 coverImageUri: ""
 title: "WordPress: Help Stop SOPA/PIPA"
-date: "2012-01-10"
 datetime: "2012-01-10T23:16:13.000Z"
 categories: "technology"
 tags: "internet,politics"

@@ -1,8 +1,6 @@
 ---
-id: "748"
 coverImageUri: ""
 title: "Have Unlimited Subdomains? Take Advantage of Them!"
-date: "2009-11-10"
 datetime: "2009-11-10T14:59:29.000Z"
 categories: "technology"
 tags: "shared hosting,subdomains,web site"

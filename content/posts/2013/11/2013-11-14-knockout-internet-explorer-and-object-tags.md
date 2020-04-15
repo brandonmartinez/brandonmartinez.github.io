@@ -1,8 +1,6 @@
 ---
-id: "11685"
 coverImageUri: ""
 title: "Knockout, Internet Explorer, and Object Tags"
-date: "2013-11-14"
 datetime: "2013-11-14T23:00:43.000Z"
 categories: "technology"
 tags: "html,html5,internet explorer,javascript,knockout.js"

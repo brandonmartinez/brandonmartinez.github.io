@@ -1,8 +1,6 @@
 ---
-id: "908"
 coverImageUri: ""
 title: "Bookmark Bankruptcy"
-date: "2009-12-17"
 datetime: "2009-12-17T05:00:25.000Z"
 categories: "technology"
 tags: "bookmarking,web browser"

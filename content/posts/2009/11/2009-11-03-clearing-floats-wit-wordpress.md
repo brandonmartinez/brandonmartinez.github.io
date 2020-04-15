@@ -1,8 +1,6 @@
 ---
-id: "554"
 coverImageUri: ""
 title: "Clearing Floats With WordPress"
-date: "2009-11-03"
 datetime: "2009-11-03T13:34:11.000Z"
 categories: "technology"
 tags: "css,functions,html,php,programming,wordpress"

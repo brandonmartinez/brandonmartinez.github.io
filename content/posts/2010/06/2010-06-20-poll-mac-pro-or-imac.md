@@ -1,8 +1,6 @@
 ---
-id: "1744"
 coverImageUri: ""
 title: "Poll: Mac Pro or iMac?"
-date: "2010-06-20"
 datetime: "2010-06-20T23:42:46.000Z"
 categories: "personal"
 tags: "apple,mac"

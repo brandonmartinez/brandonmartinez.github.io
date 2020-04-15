@@ -1,8 +1,6 @@
 ---
-id: "929"
 coverImageUri: ""
 title: "That'll be a Cinch!"
-date: "2009-12-28"
 datetime: "2009-12-28T04:51:17.000Z"
 categories: "technology"
 tags: "apps,cinch,mac os x,reviews,windows 7"

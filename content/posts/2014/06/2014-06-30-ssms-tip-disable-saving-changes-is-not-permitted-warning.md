@@ -1,8 +1,6 @@
 ---
-id: "16271"
 coverImageUri: ""
 title: "SSMS Tip: Disable \"Saving Changes is Not Permitted\" Warning"
-date: "2014-06-30"
 datetime: "2014-06-30T16:00:50.000Z"
 categories: "technology"
 tags: "sql server,ssms"

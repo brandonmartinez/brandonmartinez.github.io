@@ -1,8 +1,6 @@
 ---
-id: "830"
 coverImageUri: ""
 title: "International Blue Beanie Day 2009"
-date: "2009-11-30"
 datetime: "2009-11-30T14:53:32.000Z"
 categories: "technology"
 tags: "internet holiday,web standards"

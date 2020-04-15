@@ -1,8 +1,6 @@
 ---
-id: "3399"
 coverImageUri: ""
 title: "My First Midnight-Showing"
-date: "2011-07-15"
 datetime: "2011-07-15T03:16:42.000Z"
 categories: "personal"
 tags: ""

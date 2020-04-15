@@ -1,8 +1,6 @@
 ---
-id: "4109"
 coverImageUri: ""
 title: "Remove All (iTunes Match) Music from iOS"
-date: "2012-10-09"
 datetime: "2012-10-09T17:08:53.000Z"
 categories: "technology"
 tags: "ios,itunes,itunes match,tips"

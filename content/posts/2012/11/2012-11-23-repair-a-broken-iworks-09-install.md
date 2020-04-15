@@ -1,8 +1,6 @@
 ---
-id: "10755"
 coverImageUri: ""
 title: "Repair a Broken iWorks '09 Install"
-date: "2012-11-23"
 datetime: "2012-11-23T21:06:23.000Z"
 categories: "technology"
 tags: "apple,iwork"

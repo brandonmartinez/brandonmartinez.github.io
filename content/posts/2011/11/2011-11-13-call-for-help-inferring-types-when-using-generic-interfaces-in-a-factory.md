@@ -1,8 +1,6 @@
 ---
-id: "3545"
 coverImageUri: ""
 title: "Call for Help: Inferring Types When Using Generic Interfaces in a Factory"
-date: "2011-11-13"
 datetime: "2011-11-13T03:13:55.000Z"
 categories: "technology"
 tags: "c#,programming"

@@ -1,8 +1,6 @@
 ---
-id: "395"
 coverImageUri: ""
 title: "Startup Themes"
-date: "2009-07-13"
 datetime: "2009-07-13T11:58:09.000Z"
 categories: "technology"
 tags: "nostalgia,sounds,windows,windows 3.1"

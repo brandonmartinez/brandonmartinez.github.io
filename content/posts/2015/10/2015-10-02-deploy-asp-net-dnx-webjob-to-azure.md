@@ -1,8 +1,6 @@
 ---
-id: '22801'
 coverImageUri: ''
 title: 'Deploy ASP.NET DNX WebJob to Azure'
-date: '2015-10-02'
 datetime: '2015-10-02T17:00:07.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,azure webjobs,msdeploy,web deploy'

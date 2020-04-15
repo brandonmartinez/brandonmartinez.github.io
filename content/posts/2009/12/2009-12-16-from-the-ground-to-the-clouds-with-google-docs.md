@@ -1,8 +1,6 @@
 ---
-id: "863"
 coverImageUri: ""
 title: "From the Ground to the Clouds with Google Docs"
-date: "2009-12-16"
 datetime: "2009-12-16T01:00:10.000Z"
 categories: "technology"
 tags: "cloud computing,google docs,microsoft office"

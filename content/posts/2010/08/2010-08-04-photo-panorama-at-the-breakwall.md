@@ -1,8 +1,6 @@
 ---
-id: "2335"
 coverImageUri: "2338"
 title: "Panorama at the Breakwall"
-date: "2010-08-04"
 datetime: "2010-08-04T13:30:43.000Z"
 categories: "photography"
 tags: "beach,breakwall,lighthouse,panorama"

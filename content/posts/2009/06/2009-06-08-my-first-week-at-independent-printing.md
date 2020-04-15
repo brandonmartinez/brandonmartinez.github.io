@@ -1,8 +1,6 @@
 ---
-id: "75"
 coverImageUri: ""
 title: "My First Week at Independent Printing"
-date: "2009-06-08"
 datetime: "2009-06-08T00:36:46.000Z"
 categories: "personal"
 tags: "expresslane,internship,work"

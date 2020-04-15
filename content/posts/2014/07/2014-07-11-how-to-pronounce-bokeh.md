@@ -1,8 +1,6 @@
 ---
-id: "14271"
 coverImageUri: ""
 title: "How to Pronounce \"Bokeh\""
-date: "2014-07-11"
 datetime: "2014-07-11T16:30:11.000Z"
 categories: "photography"
 tags: "bokeh,language,pronunciation"

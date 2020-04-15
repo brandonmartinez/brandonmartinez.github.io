@@ -1,8 +1,6 @@
 ---
-id: "16011"
 coverImageUri: "16021"
 title: "2014 Martinez Baby: It's a…"
-date: "2014-05-29"
 datetime: "2014-05-29T17:11:02.000Z"
 categories: "personal"
 tags: "announcements,family"

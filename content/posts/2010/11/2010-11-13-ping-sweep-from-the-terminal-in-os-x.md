@@ -1,8 +1,6 @@
 ---
-id: "2606"
 coverImageUri: ""
 title: "Ping-Sweep from the Terminal in OS X"
-date: "2010-11-13"
 datetime: "2010-11-13T20:46:26.000Z"
 categories: "technology"
 tags: "mac os x,networking,terminal"

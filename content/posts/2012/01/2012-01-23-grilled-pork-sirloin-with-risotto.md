@@ -1,8 +1,6 @@
 ---
-id: "3858"
 coverImageUri: "3859"
 title: "Grilled Pork Sirloin with Risotto"
-date: "2012-01-23"
 datetime: "2012-01-23T01:22:48.000Z"
 categories: "food"
 tags: ""

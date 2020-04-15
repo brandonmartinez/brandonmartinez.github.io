@@ -1,8 +1,6 @@
 ---
-id: "2241"
 coverImageUri: ""
 title: "Still Not Good Enough for Google"
-date: "2010-07-21"
 datetime: "2010-07-21T23:00:25.000Z"
 categories: "technology"
 tags: "bing,google,rant,seo,site,yahoo"

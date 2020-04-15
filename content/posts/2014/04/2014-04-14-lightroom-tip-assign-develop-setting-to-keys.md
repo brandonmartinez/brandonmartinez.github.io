@@ -1,8 +1,6 @@
 ---
-id: "15581"
 coverImageUri: ""
 title: "Lightroom Tip: Assign Develop Setting to +/- Keys"
-date: "2014-04-14"
 datetime: "2014-04-14T02:01:33.000Z"
 categories: "photography"
 tags: "lightroom,tips"

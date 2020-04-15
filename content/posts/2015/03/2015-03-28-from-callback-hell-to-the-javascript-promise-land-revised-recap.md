@@ -1,8 +1,6 @@
 ---
-id: '19681'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2014/03/welcometocallbackhell.jpg'
 title: 'From Callback Hell to the JavaScript "Promise" Land [Revised Recap]'
-date: '2015-03-28'
 datetime: '2015-03-28T17:30:13.000Z'
 categories: 'technology'
 tags: 'ecmascript 6,javascript,javascript promises,presentations'

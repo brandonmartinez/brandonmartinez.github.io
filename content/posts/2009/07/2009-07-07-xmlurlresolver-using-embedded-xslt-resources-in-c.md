@@ -1,8 +1,6 @@
 ---
-id: "326"
 coverImageUri: ""
 title: "XMLUrlResolver: Using Embedded XSLT Resources in C#"
-date: "2009-07-07"
 datetime: "2009-07-07T03:05:56.000Z"
 categories: "technology"
 tags: "c#,programming,xml,xsl"

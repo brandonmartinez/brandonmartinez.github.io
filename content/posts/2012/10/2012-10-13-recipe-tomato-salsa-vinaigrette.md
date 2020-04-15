@@ -1,8 +1,6 @@
 ---
-id: "4119"
 coverImageUri: "4120"
 title: "Recipe: Tomato Salsa Vinaigrette"
-date: "2012-10-13"
 datetime: "2012-10-13T23:03:52.000Z"
 categories: "food"
 tags: "salad dressing,vinaigrette"

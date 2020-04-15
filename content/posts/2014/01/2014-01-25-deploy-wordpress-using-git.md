@@ -1,8 +1,6 @@
 ---
-id: "13531"
 coverImageUri: ""
 title: "Deploy WordPress Using Git"
-date: "2014-01-25"
 datetime: "2014-01-25T23:00:52.000Z"
 categories: "technology"
 tags: "continuous integration,deployment,git,wordpress"

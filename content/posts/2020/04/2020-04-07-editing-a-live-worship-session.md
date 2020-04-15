@@ -1,7 +1,6 @@
 ---
 coverImageUri: ''
 title: 'Editing a Live Worship Session'
-date: '2020-04-07'
 datetime: '2020-04-07T08:00:00.000Z'
 categories: 'personal'
 tags: 'livestream,worship,logic pro x,christianity,praise,worship'

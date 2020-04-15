@@ -1,8 +1,6 @@
 ---
-id: '30715'
 coverImageUri: ''
 title: 'Where Have I Been?'
-date: '2018-10-15'
 datetime: '2018-10-15T15:34:06.000Z'
 categories: 'personal'
 tags: ''

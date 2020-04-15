@@ -1,8 +1,6 @@
 ---
-id: "2499"
 coverImageUri: ""
 title: "Charter's Social Media Team"
-date: "2010-09-02"
 datetime: "2010-09-02T14:13:52.000Z"
 categories: "personal"
 tags: "cable,customer service,internet,isp,reviews,social media"

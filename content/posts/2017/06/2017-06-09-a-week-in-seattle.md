@@ -1,8 +1,6 @@
 ---
-id: '27021'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/06/MartinezMedia-20170513235-Proof-LQ-1000x563.jpg'
 title: 'A Week in Seattle'
-date: '2017-06-09'
 datetime: '2017-06-09T04:22:02.000Z'
 categories: 'personal'
 tags: ''

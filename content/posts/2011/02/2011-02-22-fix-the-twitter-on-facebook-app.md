@@ -1,8 +1,6 @@
 ---
-id: "2878"
 coverImageUri: "2879"
 title: "Fix the Twitter on Facebook App"
-date: "2011-02-22"
 datetime: "2011-02-22T04:46:10.000Z"
 categories: "technology"
 tags: "facebook,social media,twitter,web apps"

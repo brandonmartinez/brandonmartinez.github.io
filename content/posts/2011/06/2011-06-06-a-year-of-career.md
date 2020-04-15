@@ -1,8 +1,6 @@
 ---
-id: "3142"
 coverImageUri: ""
 title: "A Year of Career"
-date: "2011-06-06"
 datetime: "2011-06-06T14:32:56.000Z"
 categories: "personal"
 tags: "anniversary,ipc,work"

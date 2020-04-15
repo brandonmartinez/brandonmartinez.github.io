@@ -1,8 +1,6 @@
 ---
-id: "455"
 coverImageUri: ""
 title: "Cisco Clean Access + Mac OS X = Headache"
-date: "2009-09-23"
 datetime: "2009-09-23T05:48:36.000Z"
 categories: "technology"
 tags: "bash,cisco,clean access,ferris state university,programming,proxy"

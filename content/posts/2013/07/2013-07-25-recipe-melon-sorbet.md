@@ -1,8 +1,6 @@
 ---
-id: "11398"
 coverImageUri: "11400"
 title: "Recipe: Melon Sorbet"
-date: "2013-07-25"
 datetime: "2013-07-25T03:49:02.000Z"
 categories: "food"
 tags: "desserts,recipe,sorbet"

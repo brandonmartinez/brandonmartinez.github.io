@@ -1,8 +1,6 @@
 ---
-id: "3865"
 coverImageUri: ""
 title: "Coffee Lover's Site of the Day: Brew Methods"
-date: "2012-02-03"
 datetime: "2012-02-03T13:00:01.000Z"
 categories: "food"
 tags: "coffee"

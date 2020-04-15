@@ -1,8 +1,6 @@
 ---
-id: "2938"
 coverImageUri: "2940"
 title: "For Sale: Dell 19\" LCD Monitor (SOLD)"
-date: "2011-03-08"
 datetime: "2011-03-08T02:55:38.000Z"
 categories: "personal"
 tags: "for sale"

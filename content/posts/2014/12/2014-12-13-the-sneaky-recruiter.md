@@ -1,8 +1,6 @@
 ---
-id: "18521"
 coverImageUri: ""
 title: "The Sneaky Recruiter"
-date: "2014-12-13"
 datetime: "2014-12-13T07:59:02.000Z"
 categories: "technology"
 tags: "careers,linkedin,recruiting"

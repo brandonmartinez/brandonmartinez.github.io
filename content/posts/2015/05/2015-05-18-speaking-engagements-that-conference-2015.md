@@ -1,8 +1,6 @@
 ---
-id: '20471'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2015/04/web-bg-photo-dark.jpg'
 title: 'Speaking Engagements: THAT Conference 2015'
-date: '2015-05-18'
 datetime: '2015-05-18T19:09:15.000Z'
 categories: 'technology'
 tags: '#THATconference,conferences,sass,speaking'

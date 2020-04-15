@@ -1,8 +1,6 @@
 ---
-id: "3409"
 coverImageUri: ""
 title: "The Texas Sharpshooter Fallacy"
-date: "2011-07-20"
 datetime: "2011-07-20T12:23:21.000Z"
 categories: "personal"
 tags: "shared"

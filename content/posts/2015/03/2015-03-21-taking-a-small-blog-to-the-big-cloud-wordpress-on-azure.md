@@ -1,8 +1,6 @@
 ---
-id: '19371'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2015/03/small-blog-big-cloud-featured.jpg'
 title: 'Taking a Small Blog to the Big Cloud: WordPress on Azure'
-date: '2015-03-21'
 datetime: '2015-03-21T19:30:33.000Z'
 categories: 'technology'
 tags: 'brandon on tech,microsoft azure,presentations,wordpress'

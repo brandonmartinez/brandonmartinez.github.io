@@ -1,8 +1,6 @@
 ---
-id: '24191'
 coverImageUri: ''
 title: 'Build and Deploy Your ASP.NET Core Applications… Automatically!'
-date: '2016-08-08'
 datetime: '2016-08-08T19:39:18.000Z'
 categories: 'technology'
 tags: '#THATconference,asp.net core,visual studio team services'

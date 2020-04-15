@@ -1,8 +1,6 @@
 ---
-id: "10735"
 coverImageUri: ""
 title: "Mini-Keynote: Advanced Knockout.js"
-date: "2012-11-20"
 datetime: "2012-11-20T18:30:27.000Z"
 categories: "personal"
 tags: "javascript,knockout.js,web development"

@@ -1,8 +1,6 @@
 ---
-id: "3848"
 coverImageUri: ""
 title: "Capturing the Master Chief"
-date: "2012-01-19"
 datetime: "2012-01-19T13:00:41.000Z"
 categories: "photography"
 tags: ""

@@ -1,8 +1,6 @@
 ---
-id: "16991"
 coverImageUri: ""
 title: "Six Years of Wedded Bliss!"
-date: "2014-08-09"
 datetime: "2014-08-09T11:00:15.000Z"
 categories: "personal"
 tags: "anniversary,marriage"

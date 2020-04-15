@@ -1,8 +1,6 @@
 ---
-id: "3728"
 coverImageUri: ""
 title: "A Possible Studio Light Setup"
-date: "2012-01-03"
 datetime: "2012-01-03T05:00:03.000Z"
 categories: "photography"
 tags: "studio"

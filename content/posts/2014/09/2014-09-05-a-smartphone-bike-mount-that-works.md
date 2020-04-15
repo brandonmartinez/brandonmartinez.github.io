@@ -1,8 +1,6 @@
 ---
-id: "17421"
 coverImageUri: "17431"
 title: "A Smartphone Bike Mount That Works!"
-date: "2014-09-05"
 datetime: "2014-09-05T22:00:29.000Z"
 categories: "personal"
 tags: "biking,exercise,iphone,sports"

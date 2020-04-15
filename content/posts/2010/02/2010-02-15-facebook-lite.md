@@ -1,8 +1,6 @@
 ---
-id: "1379"
 coverImageUri: "1422"
 title: "Facebook… Lite?"
-date: "2010-02-15"
 datetime: "2010-02-15T15:26:02.000Z"
 categories: "technology"
 tags: "facebook"

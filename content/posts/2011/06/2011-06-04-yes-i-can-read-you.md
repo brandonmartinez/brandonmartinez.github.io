@@ -1,8 +1,6 @@
 ---
-id: "3071"
 coverImageUri: "3140"
 title: "Yes, I Can Read You"
-date: "2011-06-04"
 datetime: "2011-06-04T05:14:51.000Z"
 categories: "personal"
 tags: "opinion,rant,style,typography"

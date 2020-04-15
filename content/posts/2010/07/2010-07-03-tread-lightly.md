@@ -1,8 +1,6 @@
 ---
-id: "1983"
 coverImageUri: ""
 title: "Tread Lightly"
-date: "2010-07-03"
 datetime: "2010-07-03T18:12:21.000Z"
 categories: "personal"
 tags: "apartment life,neighbors"

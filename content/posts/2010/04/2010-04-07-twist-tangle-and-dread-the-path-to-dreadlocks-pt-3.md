@@ -1,8 +1,6 @@
 ---
-id: "1541"
 coverImageUri: ""
 title: "Twist, Tangle and Dread: The Path to Dreadlocks (Pt 3)"
-date: "2010-04-07"
 datetime: "2010-04-07T02:15:34.000Z"
 categories: "personal"
 tags: "dreadlocks"

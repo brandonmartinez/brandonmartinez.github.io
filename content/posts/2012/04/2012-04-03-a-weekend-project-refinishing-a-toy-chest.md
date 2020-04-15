@@ -1,8 +1,6 @@
 ---
-id: "3961"
 coverImageUri: ""
 title: "A Weekend Project: Refinishing a Toy Chest"
-date: "2012-04-03"
 datetime: "2012-04-03T21:00:09.000Z"
 categories: "personal"
 tags: "home improvement,woodworking"

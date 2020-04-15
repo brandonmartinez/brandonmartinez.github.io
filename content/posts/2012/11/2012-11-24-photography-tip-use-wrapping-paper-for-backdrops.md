@@ -1,8 +1,6 @@
 ---
-id: "10765"
 coverImageUri: ""
 title: "Photography Tip: Use Wrapping Paper for Backdrops"
-date: "2012-11-24"
 datetime: "2012-11-24T13:00:46.000Z"
 categories: "photography"
 tags: "tips"

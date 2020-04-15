@@ -1,8 +1,6 @@
 ---
-id: "18453"
 coverImageUri: ""
 title: "New Vimeo Channel: Photography and Post-Processing"
-date: "2014-11-29"
 datetime: "2014-11-29T16:31:43.000Z"
 categories: "photography"
 tags: ""

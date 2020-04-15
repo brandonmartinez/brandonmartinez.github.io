@@ -1,8 +1,6 @@
 ---
-id: "1362"
 coverImageUri: ""
 title: "\"You’ve Got Waves\""
-date: "2010-02-02"
 datetime: "2010-02-02T00:02:50.000Z"
 categories: "technology"
 tags: "google,google wave,shared"

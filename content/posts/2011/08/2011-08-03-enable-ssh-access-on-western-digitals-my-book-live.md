@@ -1,8 +1,6 @@
 ---
-id: "3480"
 coverImageUri: ""
 title: "Enable SSH Access on Western Digital's My Book Live"
-date: "2011-08-03"
 datetime: "2011-08-03T13:00:16.000Z"
 categories: "technology"
 tags: "tips"

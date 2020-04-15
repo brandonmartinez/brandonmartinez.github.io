@@ -1,8 +1,6 @@
 ---
-id: '30044'
 coverImageUri: ''
 title: 'Rollback SMB Security in macOS High Sierra'
-date: '2017-12-28'
 datetime: '2017-12-28T17:00:02.000Z'
 categories: 'technology'
 tags: 'file sharing,hp,mac os x,macos,printers,smb'

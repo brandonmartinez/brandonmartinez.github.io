@@ -1,8 +1,6 @@
 ---
-id: "1578"
 coverImageUri: "1579"
 title: "It’s Been One of Those Days…"
-date: "2010-04-19"
 datetime: "2010-04-19T02:42:26.000Z"
 categories: "personal"
 tags: "photoshop"

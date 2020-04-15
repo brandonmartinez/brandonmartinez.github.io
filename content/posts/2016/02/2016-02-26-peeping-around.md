@@ -1,8 +1,6 @@
 ---
-id: '25141'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/02/peeper.jpg'
 title: 'Peeping Around'
-date: '2016-02-26'
 datetime: '2016-02-26T15:00:45.000Z'
 categories: 'personal'
 tags: 'family,home security'

@@ -1,8 +1,6 @@
 ---
-id: "17291"
 coverImageUri: ""
 title: "Behind-the-Scenes of a Post-Processing Session"
-date: "2014-08-30"
 datetime: "2014-08-30T14:00:03.000Z"
 categories: "photography"
 tags: "lightroom,photoshop,post-processing"

@@ -1,8 +1,6 @@
 ---
-id: "16811"
 coverImageUri: ""
 title: "Video: How to Make Your Photos \"Pop\" in Lightroom"
-date: "2014-07-01"
 datetime: "2014-07-01T04:05:38.000Z"
 categories: "photography"
 tags: "lightroom"

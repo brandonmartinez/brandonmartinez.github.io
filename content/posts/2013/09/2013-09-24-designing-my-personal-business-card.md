@@ -1,8 +1,6 @@
 ---
-id: "11569"
 coverImageUri: "11585"
 title: "Designing My Personal Business Card"
-date: "2013-09-24"
 datetime: "2013-09-24T16:28:40.000Z"
 categories: "personal"
 tags: "business cards,graphic design"

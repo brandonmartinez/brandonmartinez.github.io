@@ -1,8 +1,6 @@
 ---
-id: "4072"
 coverImageUri: ""
 title: "Return a 500 Error in ASP.NET MVC"
-date: "2012-08-28"
 datetime: "2012-08-28T22:00:43.000Z"
 categories: "technology"
 tags: ".net,asp.net,c#,mvc,tips"

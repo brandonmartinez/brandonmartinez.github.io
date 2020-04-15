@@ -1,8 +1,6 @@
 ---
-id: "3825"
 coverImageUri: ""
 title: "Lightroom 2 Technique: Staying Organized with Keywords"
-date: "2012-02-08"
 datetime: "2012-02-08T13:00:00.000Z"
 categories: "photography"
 tags: "lightroom"

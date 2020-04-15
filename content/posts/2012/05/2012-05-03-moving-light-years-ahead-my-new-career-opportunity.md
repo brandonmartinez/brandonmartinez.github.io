@@ -1,8 +1,6 @@
 ---
-id: "3994"
 coverImageUri: ""
 title: "Moving Light Years Ahead: My New Career Opportunity"
-date: "2012-05-03"
 datetime: "2012-05-03T22:30:16.000Z"
 categories: "personal"
 tags: "work"

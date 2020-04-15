@@ -1,8 +1,6 @@
 ---
-id: '24851'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/02/IMG_2883-1000x563.png'
 title: 'Starting the Home Automation Process'
-date: '2017-02-28'
 datetime: '2017-02-28T04:33:42.000Z'
 categories: 'technology'
 tags: ''

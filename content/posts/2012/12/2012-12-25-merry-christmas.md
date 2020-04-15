@@ -1,8 +1,6 @@
 ---
-id: "10927"
 coverImageUri: ""
 title: "Merry Christmas!"
-date: "2012-12-25"
 datetime: "2012-12-25T13:00:24.000Z"
 categories: "personal"
 tags: "holidays"

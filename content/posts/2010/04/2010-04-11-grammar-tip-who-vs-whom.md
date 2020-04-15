@@ -1,8 +1,6 @@
 ---
-id: "1568"
 coverImageUri: ""
 title: "Grammar Tip: Who vs. Whom"
-date: "2010-04-11"
 datetime: "2010-04-11T15:58:24.000Z"
 categories: "personal"
 tags: "grammar,language,tips"

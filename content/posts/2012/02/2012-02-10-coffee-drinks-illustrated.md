@@ -1,8 +1,6 @@
 ---
-id: "3903"
 coverImageUri: ""
 title: "Coffee Drinks Illustrated"
-date: "2012-02-10"
 datetime: "2012-02-10T13:00:51.000Z"
 categories: "food"
 tags: "coffee"

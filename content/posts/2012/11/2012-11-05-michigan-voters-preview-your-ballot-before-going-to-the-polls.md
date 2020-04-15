@@ -1,8 +1,6 @@
 ---
-id: "10713"
 coverImageUri: ""
 title: "Michigan Voters: Preview Your Ballot Before Going to the Polls"
-date: "2012-11-05"
 datetime: "2012-11-05T12:26:08.000Z"
 categories: "personal"
 tags: "ballot,election,politics"

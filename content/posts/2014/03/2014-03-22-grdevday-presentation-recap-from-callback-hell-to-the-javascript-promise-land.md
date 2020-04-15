@@ -1,8 +1,6 @@
 ---
-id: "14661"
 coverImageUri: "15191"
 title: "GRDevDay Presentation Recap: From Callback Hell to the JavaScript \"Promise\" Land"
-date: "2014-03-22"
 datetime: "2014-03-22T19:30:16.000Z"
 categories: "technology"
 tags: "javascript,javascript promises,presentations,promises/a+,q.js"

@@ -1,8 +1,6 @@
 ---
-id: "11242"
 coverImageUri: ""
 title: "Keeping Comment Blocks Visible in Compressed SCSS Output"
-date: "2013-11-26"
 datetime: "2013-11-26T14:00:03.000Z"
 categories: "technology"
 tags: "css,sass,scss"

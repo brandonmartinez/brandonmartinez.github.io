@@ -1,8 +1,6 @@
 ---
-id: "1646"
 coverImageUri: ""
 title: "Financial Tip: Check Your Statements"
-date: "2010-04-25"
 datetime: "2010-04-25T21:14:54.000Z"
 categories: "personal"
 tags: "credit cards,finance,tips"

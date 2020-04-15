@@ -1,8 +1,6 @@
 ---
-id: "15641"
 coverImageUri: "15701"
 title: "Talking on JavaScript Promises on the MS Dev Show"
-date: "2014-04-19"
 datetime: "2014-04-19T13:40:38.000Z"
 categories: "technology"
 tags: "javascript,javascript promises,podcasts,promises/a+"

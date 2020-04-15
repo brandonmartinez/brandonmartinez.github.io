@@ -1,8 +1,6 @@
 ---
-id: "3348"
 coverImageUri: "3357"
 title: "Consumer Alert! Michigan \"Bounty\" Changing September 1, 2011"
-date: "2011-07-08"
 datetime: "2011-07-08T13:00:20.000Z"
 categories: "personal"
 tags: "law,shopping"

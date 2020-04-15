@@ -1,8 +1,6 @@
 ---
-id: '17541'
 coverImageUri: ''
 title: 'Force Drop a Database From T-SQL'
-date: '2015-03-31'
 datetime: '2015-03-31T14:25:49.000Z'
 categories: 'technology'
 tags: 'sql server,t-sql,tips'

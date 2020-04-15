@@ -1,8 +1,6 @@
 ---
-id: "17741"
 coverImageUri: "17751"
 title: "An Awesome, and Easy, Hummus Recipe"
-date: "2014-10-19"
 datetime: "2014-10-19T04:20:27.000Z"
 categories: "food"
 tags: "appetizer,hummus,recipe"

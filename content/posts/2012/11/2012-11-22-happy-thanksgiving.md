@@ -1,8 +1,6 @@
 ---
-id: "10746"
 coverImageUri: ""
 title: "Happy Thanksgiving!"
-date: "2012-11-22"
 datetime: "2012-11-22T13:00:56.000Z"
 categories: "personal"
 tags: "holidays"

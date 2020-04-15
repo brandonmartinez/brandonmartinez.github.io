@@ -1,8 +1,6 @@
 ---
-id: "3416"
 coverImageUri: ""
 title: "Unhide Library Folder in OS X 10.7 Lion"
-date: "2011-07-23"
 datetime: "2011-07-23T16:00:46.000Z"
 categories: "technology"
 tags: "mac os x,tips"

@@ -1,8 +1,6 @@
 ---
-id: "3827"
 coverImageUri: ""
 title: "A Quick Review: The AlienBees Setup"
-date: "2012-01-14"
 datetime: "2012-01-14T06:00:01.000Z"
 categories: "photography"
 tags: "reviews"

@@ -1,8 +1,6 @@
 ---
-id: '21741'
 coverImageUri: ''
 title: 'Access All IConfiguration Properties in MVC 6'
-date: '2015-09-11'
 datetime: '2015-09-11T12:00:05.000Z'
 categories: 'technology'
 tags: 'asp.net,asp.net dnx,asp.net mvc,c#'

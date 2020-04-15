@@ -1,8 +1,6 @@
 ---
-id: "3227"
 coverImageUri: ""
 title: "Fix an Authorization Error with Audible and iTunes"
-date: "2011-06-21"
 datetime: "2011-06-21T16:00:50.000Z"
 categories: "technology"
 tags: "itunes"

@@ -1,8 +1,6 @@
 ---
-id: "14401"
 coverImageUri: ""
 title: "Introducing Martinez Media, LLC"
-date: "2014-03-01"
 datetime: "2014-03-01T22:38:23.000Z"
 categories: "personal"
 tags: "business"

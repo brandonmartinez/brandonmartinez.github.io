@@ -1,8 +1,6 @@
 ---
-id: "11605"
 coverImageUri: ""
 title: "Import Large SQL Scripts into SQL Server"
-date: "2013-09-25"
 datetime: "2013-09-25T16:30:43.000Z"
 categories: "technology"
 tags: "sql server"

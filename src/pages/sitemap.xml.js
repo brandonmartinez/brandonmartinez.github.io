@@ -1,18 +1,19 @@
+import { DateTime } from 'luxon';
 import PostService from '../services/PostService';
 
-const getSiteMapPostXml = posts => {
+const getSiteMapPostXml = (posts) => {
 	let latestPost = 0;
 	let postsXml = '';
-	posts.map(post => {
-		const postDate = Date.parse(post.publishedAt);
+	posts.map((post) => {
+		const postDate = DateTime.fromISO(post.publishedAt);
 		if (!latestPost || postDate > latestPost) {
 			latestPost = postDate;
 		}
 		postsXml += `
     <url>
       <loc>https://www.brandonmartinez.com${post.relativeUri}/</loc>
-      <lastmod>${new Date(postDate).toISOString()}</lastmod>
-      <priority>0.80</priority>
+      <lastmod>${postDate.toFormat('yyyy-MM-dd')}</lastmod>
+      <changefreq>monthly</changefreq>
     </url>`;
 	});
 	return {
@@ -21,18 +22,20 @@ const getSiteMapPostXml = posts => {
 	};
 };
 
-const getSitemapXml = posts => {
+const getSitemapXml = (posts) => {
 	const { postsXml, latestPost } = getSiteMapPostXml(posts);
 	return `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>https://www.brandonmartinez.com/</loc>
-      <lastmod>${latestPost}</lastmod>
+      <lastmod>${latestPost.toFormat('yyyy-MM-dd')}</lastmod>
       <priority>1.00</priority>
+      <changefreq>weekly</changefreq>
     </url>
     <url>
       <loc>https://www.brandonmartinez.com/posts/</loc>
       <priority>0.5</priority>
+      <changefreq>monthly</changefreq>
     </url>
     ${postsXml}
   </urlset>`;

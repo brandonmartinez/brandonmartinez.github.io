@@ -1,10 +1,8 @@
 ---
-id: '20851'
 coverImageUri: ''
 title:
   'Resolve a "Requested value VS2015 was not found" Get-AzureWebsite Error in
   PowerShell'
-date: '2015-07-14'
 datetime: '2015-07-14T18:25:39.000Z'
 categories: 'technology'
 tags: 'asp.net,asp.net 5,azure web apps,powershell'

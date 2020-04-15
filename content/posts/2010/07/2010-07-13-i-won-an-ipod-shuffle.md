@@ -1,8 +1,6 @@
 ---
-id: "2183"
 coverImageUri: "2185"
 title: "I Won an iPod Shuffle"
-date: "2010-07-13"
 datetime: "2010-07-13T02:58:42.000Z"
 categories: "personal"
 tags: "apple,giveaways,ipod"

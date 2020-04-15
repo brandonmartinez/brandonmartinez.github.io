@@ -1,8 +1,6 @@
 ---
-id: "10790"
 coverImageUri: ""
 title: "It's Never Enough: Internet Speed"
-date: "2012-11-26"
 datetime: "2012-11-26T12:00:00.000Z"
 categories: "technology"
 tags: "broadband,internet,speedtest"

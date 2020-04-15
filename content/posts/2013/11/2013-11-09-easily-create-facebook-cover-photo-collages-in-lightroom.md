@@ -1,8 +1,6 @@
 ---
-id: "11674"
 coverImageUri: "11677"
 title: "Easily Create Facebook Cover Photo Collages in Lightroom"
-date: "2013-11-09"
 datetime: "2013-11-09T15:57:38.000Z"
 categories: "photography"
 tags: "facebook,lightroom"

@@ -1,8 +1,6 @@
 ---
-id: '19041'
 coverImageUri: ''
 title: 'Speaking Engagements: GR DevDay 2015'
-date: '2015-02-16'
 datetime: '2015-02-16T22:00:16.000Z'
 categories: 'technology'
 tags: 'conferences,gr devday,speaking'

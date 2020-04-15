@@ -1,8 +1,6 @@
 ---
-id: "10682"
 coverImageUri: ""
 title: "You Have My Vote - 2012 Edition"
-date: "2012-11-03"
 datetime: "2012-11-03T16:06:36.000Z"
 categories: "personal"
 tags: "ballot,election,politics"

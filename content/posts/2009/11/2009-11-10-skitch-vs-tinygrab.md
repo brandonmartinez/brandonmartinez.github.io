@@ -1,8 +1,6 @@
 ---
-id: "735"
 coverImageUri: ""
 title: "Skitch vs. TinyGrab"
-date: "2009-11-10"
 datetime: "2009-11-10T14:01:52.000Z"
 categories: "technology"
 tags: "macheist,screen capture,skitch,software,tinygrab"

@@ -1,8 +1,6 @@
 ---
-id: '16191'
 coverImageUri: ''
 title: 'Resolve DACPAC Export Exception: FillFactor is Not Supported'
-date: '2015-03-10'
 datetime: '2015-03-10T16:00:26.000Z'
 categories: 'technology'
 tags: 'bacpac,dacpac,sql,sql azure,sql server'

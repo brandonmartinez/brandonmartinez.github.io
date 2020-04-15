@@ -1,8 +1,6 @@
 ---
-id: "432"
 coverImageUri: ""
 title: "Sanitizing Phone Numbers With C#"
-date: "2009-08-03"
 datetime: "2009-08-03T18:47:51.000Z"
 categories: "technology"
 tags: ".net,c#,programming,sanitizing input"

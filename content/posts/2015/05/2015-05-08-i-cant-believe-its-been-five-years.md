@@ -1,8 +1,6 @@
 ---
-id: '20401'
 coverImageUri: ''
 title: "I Can't Believe It's Been Five Years"
-date: '2015-05-08'
 datetime: '2015-05-08T21:00:40.000Z'
 categories: 'personal'
 tags: 'graduation,life,school'

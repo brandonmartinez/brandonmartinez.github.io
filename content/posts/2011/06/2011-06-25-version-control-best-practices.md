@@ -1,8 +1,6 @@
 ---
-id: "3239"
 coverImageUri: ""
 title: "Version Control Best Practices"
-date: "2011-06-25"
 datetime: "2011-06-25T04:01:17.000Z"
 categories: "technology"
 tags: "git,programming"

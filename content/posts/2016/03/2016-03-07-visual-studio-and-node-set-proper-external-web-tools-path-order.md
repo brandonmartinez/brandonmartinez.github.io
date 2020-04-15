@@ -1,8 +1,6 @@
 ---
-id: '23571'
 coverImageUri: ''
 title: 'Visual Studio and Node - Set Proper External Web Tools Path Order'
-date: '2016-03-07'
 datetime: '2016-03-07T14:49:47.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net core,libsass,node,visual studio'

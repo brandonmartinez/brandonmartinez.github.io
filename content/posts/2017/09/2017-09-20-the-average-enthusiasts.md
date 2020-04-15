@@ -1,8 +1,6 @@
 ---
-id: '29064'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/09/The-Average-Enthusiasts-Facebook-Cover-Photo.png'
 title: 'The Average Enthusiasts'
-date: '2017-09-20'
 datetime: '2017-09-20T12:00:44.000Z'
 categories: 'personal'
 tags: '#tae,#theaverageenthusiasts'

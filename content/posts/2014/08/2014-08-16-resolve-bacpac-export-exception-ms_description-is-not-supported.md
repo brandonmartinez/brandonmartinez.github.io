@@ -1,8 +1,6 @@
 ---
-id: "16111"
 coverImageUri: ""
 title: "Resolve BACPAC Export Exception: MS_Description is Not Supported"
-date: "2014-08-16"
 datetime: "2014-08-16T15:00:54.000Z"
 categories: "technology"
 tags: "bacpac,dacpac,sql,sql azure,sql server"

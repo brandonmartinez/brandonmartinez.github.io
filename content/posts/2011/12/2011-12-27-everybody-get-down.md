@@ -1,8 +1,6 @@
 ---
-id: "3630"
 coverImageUri: ""
 title: "Everybody Get Down!"
-date: "2011-12-27"
 datetime: "2011-12-27T01:55:34.000Z"
 categories: "personal"
 tags: ""

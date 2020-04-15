@@ -1,8 +1,6 @@
 ---
-id: "15411"
 coverImageUri: ""
 title: "Temporarily Disable All T-SQL Table Constraints in a Database"
-date: "2014-04-02"
 datetime: "2014-04-02T21:10:49.000Z"
 categories: "technology"
 tags: "sql,sql server,t-sql,tips"

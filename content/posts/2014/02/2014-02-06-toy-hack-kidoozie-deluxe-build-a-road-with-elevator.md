@@ -1,8 +1,6 @@
 ---
-id: "13871"
 coverImageUri: ""
 title: "Toy Hack: Kidoozie Deluxe Build-A-Road with Elevator"
-date: "2014-02-06"
 datetime: "2014-02-06T17:00:04.000Z"
 categories: "personal"
 tags: "lifehack,parenting,toys"

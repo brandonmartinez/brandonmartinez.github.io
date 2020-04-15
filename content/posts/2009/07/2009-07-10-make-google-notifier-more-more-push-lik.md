@@ -1,8 +1,6 @@
 ---
-id: "349"
 coverImageUri: ""
 title: "Make Google Notifier More “Push”-Like"
-date: "2009-07-10"
 datetime: "2009-07-10T20:02:52.000Z"
 categories: "technology"
 tags: "gmail,iphone,mac os x,mobile,push notifications"

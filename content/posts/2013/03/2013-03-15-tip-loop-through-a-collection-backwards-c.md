@@ -1,8 +1,6 @@
 ---
-id: "11054"
 coverImageUri: ""
 title: "Tip: Loop Through a Collection Backwards [C#]"
-date: "2013-03-15"
 datetime: "2013-03-15T16:30:50.000Z"
 categories: "technology"
 tags: "c#"

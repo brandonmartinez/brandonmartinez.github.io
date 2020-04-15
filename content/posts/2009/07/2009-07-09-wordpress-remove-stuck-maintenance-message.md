@@ -1,8 +1,6 @@
 ---
-id: "2251"
 coverImageUri: ""
 title: "WordPress: Remove Stuck Maintenance Message"
-date: "2009-07-09"
 datetime: "2009-07-09T11:25:50.000Z"
 categories: "technology"
 tags: "tips,wordpress"

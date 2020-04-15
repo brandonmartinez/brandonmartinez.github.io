@@ -1,8 +1,6 @@
 ---
-id: "2915"
 coverImageUri: ""
 title: "Public, Private, and Protected"
-date: "2011-03-01"
 datetime: "2011-03-01T15:32:25.000Z"
 categories: "technology"
 tags: ".net,c#,programming"

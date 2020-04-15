@@ -1,8 +1,6 @@
 ---
-id: '25751'
 coverImageUri: ''
 title: 'Speaking at THAT Conference 2017'
-date: '2017-04-19'
 datetime: '2017-04-19T12:32:25.000Z'
 categories: 'technology'
 tags: ''

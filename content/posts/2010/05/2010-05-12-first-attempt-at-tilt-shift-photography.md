@@ -1,8 +1,6 @@
 ---
-id: "1675"
 coverImageUri: "1676"
 title: "First Attempt at Tilt-Shift Photography"
-date: "2010-05-12"
 datetime: "2010-05-12T21:07:12.000Z"
 categories: "photography"
 tags: "tilt-shift"

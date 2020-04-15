@@ -1,8 +1,6 @@
 ---
-id: "2711"
 coverImageUri: ""
 title: "Pro Tip: Liquid + Laptop"
-date: "2010-12-31"
 datetime: "2010-12-31T14:40:51.000Z"
 categories: "technology"
 tags: "accident,mac,tips"

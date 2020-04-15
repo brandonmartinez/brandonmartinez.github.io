@@ -1,8 +1,6 @@
 ---
-id: '27781'
 coverImageUri: ''
 title: 'Doxie Go Power Requirements'
-date: '2017-06-01'
 datetime: '2017-06-01T12:00:12.000Z'
 categories: 'technology'
 tags: 'doxie,doxie go'

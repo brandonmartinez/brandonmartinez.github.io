@@ -1,8 +1,6 @@
 ---
-id: '30713'
 coverImageUri: ''
 title: 'Git Tip: Remove All Local Branches Except Master'
-date: '2018-10-15'
 datetime: '2018-10-15T15:26:36.000Z'
 categories: 'technology'
 tags: 'git'

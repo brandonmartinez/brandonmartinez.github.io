@@ -1,8 +1,6 @@
 ---
-id: '20751'
 coverImageUri: ''
 title: 'How to Copy Large Amounts of Data in OS X'
-date: '2015-06-20'
 datetime: '2015-06-20T12:55:25.000Z'
 categories: 'technology'
 tags: 'backup,hardware,mac os x,rsync'

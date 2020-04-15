@@ -1,8 +1,6 @@
 ---
-id: "11176"
 coverImageUri: ""
 title: "Use a Parameter with SELECT TOP in T-SQL"
-date: "2013-04-19"
 datetime: "2013-04-19T16:00:25.000Z"
 categories: "technology"
 tags: "sql"

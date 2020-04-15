@@ -1,8 +1,6 @@
 ---
-id: "955"
 coverImageUri: ""
 title: "Easily Copy or Move Files to Dropbox"
-date: "2009-12-30"
 datetime: "2009-12-30T03:38:11.000Z"
 categories: "technology"
 tags: "dropbox,file sharing,mac os x,services"

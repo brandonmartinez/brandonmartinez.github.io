@@ -1,8 +1,6 @@
 ---
-id: "10858"
 coverImageUri: ""
 title: "Get Database Size in SQL Server Using T-SQL"
-date: "2012-11-29"
 datetime: "2012-11-29T22:00:48.000Z"
 categories: "technology"
 tags: "sql,sql server,tips"

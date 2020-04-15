@@ -1,8 +1,6 @@
 ---
-id: "3447"
 coverImageUri: ""
 title: "When Opportunity Knocks, and You're Too Busy to Answer the Door"
-date: "2011-07-29"
 datetime: "2011-07-29T05:32:29.000Z"
 categories: "personal"
 tags: "work"

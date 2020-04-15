@@ -1,8 +1,6 @@
 ---
-id: "3436"
 coverImageUri: "3440"
 title: "Install QuickTime 7 on OS X Lion"
-date: "2011-07-26"
 datetime: "2011-07-26T04:34:12.000Z"
 categories: "technology"
 tags: "mac os x"

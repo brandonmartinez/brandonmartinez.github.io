@@ -1,8 +1,6 @@
 ---
-id: "2217"
 coverImageUri: "2225"
 title: "iPhone: Make Voice Control More Useful"
-date: "2010-07-21"
 datetime: "2010-07-21T04:21:21.000Z"
 categories: "technology"
 tags: "ios,iphone,tips,voice dialing"

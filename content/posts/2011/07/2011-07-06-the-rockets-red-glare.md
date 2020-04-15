@@ -1,8 +1,6 @@
 ---
-id: "3292"
 coverImageUri: "3328"
 title: "The Rockets' Red Glare"
-date: "2011-07-06"
 datetime: "2011-07-06T10:00:59.000Z"
 categories: "personal"
 tags: "holidays"

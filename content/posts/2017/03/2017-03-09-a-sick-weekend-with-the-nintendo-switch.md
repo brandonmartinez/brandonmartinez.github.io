@@ -1,8 +1,6 @@
 ---
-id: '25451'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/03/ZeldaOnTheBed-1000x563.jpg'
 title: 'A Sick Weekend with the Nintendo Switch'
-date: '2017-03-09'
 datetime: '2017-03-09T16:13:52.000Z'
 categories: 'technology'
 tags: 'gaming,nintendo switch'

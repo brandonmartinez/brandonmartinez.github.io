@@ -1,8 +1,6 @@
 ---
-id: "2732"
 coverImageUri: "2811"
 title: "Poll: Third Annual Online Photo Contest"
-date: "2011-02-01"
 datetime: "2011-02-01T05:55:13.000Z"
 categories: "photography"
 tags: "contest,poll"

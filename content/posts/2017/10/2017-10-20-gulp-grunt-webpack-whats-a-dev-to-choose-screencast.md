@@ -1,8 +1,6 @@
 ---
-id: '29174'
 coverImageUri: ''
 title: "Gulp, Grunt, Webpack: What's a Dev to Choose? [Screencast]"
-date: '2017-10-20'
 datetime: '2017-10-20T12:26:51.000Z'
 categories: 'technology'
 tags: '#THATconference,alm,devops,grunt,gulp,javascript,webpack'

@@ -1,8 +1,6 @@
 ---
-id: "10997"
 coverImageUri: ""
 title: "Scrum Alliance: Definition of Done, A Reference"
-date: "2013-02-12"
 datetime: "2013-02-12T17:30:54.000Z"
 categories: "technology"
 tags: "agile,scrum"

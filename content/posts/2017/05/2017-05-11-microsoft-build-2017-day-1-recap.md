@@ -1,8 +1,6 @@
 ---
-id: '26151'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/05/MartinezMedia-20170510172-Proof-LQ-1000x563.jpg'
 title: 'Microsoft Build 2017 - Day 1 Recap'
-date: '2017-05-11'
 datetime: '2017-05-11T05:54:38.000Z'
 categories: 'technology'
 tags:

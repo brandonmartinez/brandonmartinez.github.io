@@ -1,8 +1,6 @@
 ---
-id: '19481'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2015/03/MartinezMedia-20150418192-WebReady.jpg'
 title: 'Make a SASSy CSS Cocktail: Bourbon and Bitters Served Neat [Recap]'
-date: '2015-03-21'
 datetime: '2015-03-21T13:45:17.000Z'
 categories: 'technology'
 tags: 'presentations,scss'

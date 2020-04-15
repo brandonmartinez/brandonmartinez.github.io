@@ -1,8 +1,6 @@
 ---
-id: "3488"
 coverImageUri: ""
 title: "Disable Local Time Machine Backups"
-date: "2011-09-23"
 datetime: "2011-09-23T03:07:32.000Z"
 categories: "technology"
 tags: "mac os x"

@@ -1,8 +1,6 @@
 ---
-id: "16441"
 coverImageUri: ""
 title: "Come See Me at THAT Conference!"
-date: "2014-06-27"
 datetime: "2014-06-27T16:47:55.000Z"
 categories: "technology"
 tags: "#THATconference,conferences,javascript,javascript promises"

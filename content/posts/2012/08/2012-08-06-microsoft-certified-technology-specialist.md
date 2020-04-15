@@ -1,8 +1,6 @@
 ---
-id: "4047"
 coverImageUri: ""
 title: "Microsoft Certified Technology Specialist"
-date: "2012-08-06"
 datetime: "2012-08-06T04:00:16.000Z"
 categories: "technology"
 tags: ".net,certification,development,microsoft"

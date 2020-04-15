@@ -1,8 +1,6 @@
 ---
-id: '28634'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/08/thatconference2017banner-1000x563.jpg'
 title: "Gulp, Grunt, Webpack: What's a Dev to Choose?"
-date: '2017-08-08'
 datetime: '2017-08-08T07:30:14.000Z'
 categories: 'technology'
 tags: '#THATconference,alm,devops,grunt,gulp,javascript,webpack'

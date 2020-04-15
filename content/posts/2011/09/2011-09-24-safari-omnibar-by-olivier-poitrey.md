@@ -1,8 +1,6 @@
 ---
-id: "3490"
 coverImageUri: ""
 title: "Safari Omnibar by Olivier Poitrey"
-date: "2011-09-24"
 datetime: "2011-09-24T16:00:12.000Z"
 categories: "technology"
 tags: "browsers,safari"

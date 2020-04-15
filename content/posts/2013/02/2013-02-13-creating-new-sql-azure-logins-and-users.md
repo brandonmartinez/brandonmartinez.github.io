@@ -1,8 +1,6 @@
 ---
-id: "11012"
 coverImageUri: ""
 title: "Creating New SQL Azure Logins and Users"
-date: "2013-02-13"
 datetime: "2013-02-13T17:30:54.000Z"
 categories: "technology"
 tags: "sql azure,windows azure"

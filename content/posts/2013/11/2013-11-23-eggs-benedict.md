@@ -1,8 +1,6 @@
 ---
-id: "12671"
 coverImageUri: ""
 title: "Eggs Benedict"
-date: "2013-11-23"
 datetime: "2013-11-23T14:00:01.000Z"
 categories: "food"
 tags: "eggs benedict,recipe"

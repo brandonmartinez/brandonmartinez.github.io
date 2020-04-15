@@ -1,8 +1,6 @@
 ---
-id: "3469"
 coverImageUri: ""
 title: "Enable TRIM on Non-Apple SSDs"
-date: "2011-08-02"
 datetime: "2011-08-02T03:09:01.000Z"
 categories: "technology"
 tags: "mac os x"

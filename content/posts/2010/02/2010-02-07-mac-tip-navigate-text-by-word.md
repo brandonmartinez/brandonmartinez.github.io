@@ -1,8 +1,6 @@
 ---
-id: "1375"
 coverImageUri: ""
 title: "Mac Tip: Navigate Text by Word"
-date: "2010-02-07"
 datetime: "2010-02-07T15:57:17.000Z"
 categories: "technology"
 tags: "mac os x,text,tips"

@@ -1,8 +1,6 @@
 ---
-id: "14381"
 coverImageUri: ""
 title: "Install MySQL on Mac OS X via Homebrew"
-date: "2014-03-12"
 datetime: "2014-03-12T03:32:04.000Z"
 categories: "technology"
 tags: "homebrew,mac os x,mysql,tips"

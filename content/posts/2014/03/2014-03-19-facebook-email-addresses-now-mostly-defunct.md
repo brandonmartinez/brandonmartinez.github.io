@@ -1,8 +1,6 @@
 ---
-id: "14961"
 coverImageUri: "15531"
 title: "Facebook Email Addresses Now (Mostly) Defunct"
-date: "2014-03-19"
 datetime: "2014-03-19T21:00:58.000Z"
 categories: "technology"
 tags: "email,facebook,social media"

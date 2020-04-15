@@ -1,8 +1,6 @@
 ---
-id: "4096"
 coverImageUri: ""
 title: "Remove Google Calendar Default Alerts in OS X Calendar"
-date: "2012-10-03"
 datetime: "2012-10-03T05:03:54.000Z"
 categories: "technology"
 tags: "google,google calendar,ical,mac os x"

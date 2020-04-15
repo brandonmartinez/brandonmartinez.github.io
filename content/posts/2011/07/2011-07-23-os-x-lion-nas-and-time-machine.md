@@ -1,8 +1,6 @@
 ---
-id: "3411"
 coverImageUri: "3429"
 title: "OS X Lion, NAS, and Time Machine"
-date: "2011-07-23"
 datetime: "2011-07-23T09:00:35.000Z"
 categories: "technology"
 tags: "hardware,mac os x"

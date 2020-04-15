@@ -1,8 +1,6 @@
 ---
-id: "2679"
 coverImageUri: "2686"
 title: "Canon EF 50mm f/1.8 II Lens"
-date: "2010-12-27"
 datetime: "2010-12-27T04:54:51.000Z"
 categories: "photography"
 tags: "canon,christmas,dof,gift,lens"

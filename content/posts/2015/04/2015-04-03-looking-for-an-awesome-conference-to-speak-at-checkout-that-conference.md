@@ -1,9 +1,7 @@
 ---
-id: '19771'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2015/04/web-bg-photo-dark.jpg'
 title:
   'Looking for an Awesome Conference to Speak At? Checkout THAT Conference!'
-date: '2015-04-03'
 datetime: '2015-04-03T13:29:41.000Z'
 categories: 'technology'
 tags: 'conferences'

@@ -1,8 +1,6 @@
 ---
-id: "2999"
 coverImageUri: ""
 title: "For Sale: MacBook (Early 2008)"
-date: "2011-03-17"
 datetime: "2011-03-17T13:16:50.000Z"
 categories: "personal"
 tags: "for sale,mac"

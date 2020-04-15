@@ -1,8 +1,6 @@
 ---
-id: "1456"
 coverImageUri: "1458"
 title: "Spree Tip: Adjust Permissions for Extended Controllers"
-date: "2010-03-24"
 datetime: "2010-03-24T04:00:07.000Z"
 categories: "technology"
 tags: "e-commerce,programming,ruby on rails,spree"

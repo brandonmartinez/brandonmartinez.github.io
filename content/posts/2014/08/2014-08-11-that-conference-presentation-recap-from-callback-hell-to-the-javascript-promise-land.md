@@ -1,8 +1,6 @@
 ---
-id: "17071"
 coverImageUri: "15191"
 title: "THAT Conference Presentation Recap: From Callback Hell to the JavaScript \"Promise\" Land"
-date: "2014-08-11"
 datetime: "2014-08-11T20:00:11.000Z"
 categories: "technology"
 tags: "javascript,javascript promises,presentations"

@@ -1,8 +1,6 @@
 ---
-id: '22251'
 coverImageUri: ''
 title: 'Add Array Items to MVC 6 IConfiguration via Environment Variables'
-date: '2015-09-14'
 datetime: '2015-09-14T21:02:47.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,asp.net mvc'

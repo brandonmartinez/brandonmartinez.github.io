@@ -1,8 +1,6 @@
 ---
-id: "11030"
 coverImageUri: ""
 title: "SQL Azure: Solve an Excessive Transaction Log Space Usage Exception"
-date: "2013-02-28"
 datetime: "2013-02-28T14:00:04.000Z"
 categories: "technology"
 tags: "sql server,windows azure"

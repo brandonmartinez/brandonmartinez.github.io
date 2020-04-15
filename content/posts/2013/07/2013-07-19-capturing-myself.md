@@ -1,8 +1,6 @@
 ---
-id: "11279"
 coverImageUri: "11283"
 title: "Capturing Myself: A Walkthrough of Taking a Self Portrait"
-date: "2013-07-19"
 datetime: "2013-07-19T15:09:33.000Z"
 categories: "photography"
 tags: "camera equipment,portraits,tutorial"

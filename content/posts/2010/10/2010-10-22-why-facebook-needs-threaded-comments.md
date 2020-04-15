@@ -1,8 +1,6 @@
 ---
-id: "2585"
 coverImageUri: ""
 title: "Why Facebook Needs Threaded Comments"
-date: "2010-10-22"
 datetime: "2010-10-22T12:29:30.000Z"
 categories: "technology"
 tags: "commenting,facebook,social media"

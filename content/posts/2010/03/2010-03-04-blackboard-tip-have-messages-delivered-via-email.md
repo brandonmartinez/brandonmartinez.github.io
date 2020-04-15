@@ -1,8 +1,6 @@
 ---
-id: "1436"
 coverImageUri: "1441"
 title: "Blackboard Tip: Have Messages Delivered via Email"
-date: "2010-03-04"
 datetime: "2010-03-04T14:01:04.000Z"
 categories: "technology"
 tags: "blackboard,ferris state university,ferrisconnect,tips"

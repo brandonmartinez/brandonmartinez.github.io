@@ -1,8 +1,6 @@
 ---
-id: '30164'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2018/04/Worship-Team-Continuous-Improvement-1000x563.jpg'
 title: 'Breaking Free in Worship'
-date: '2018-04-02'
 datetime: '2018-04-02T12:00:00.000Z'
 categories: 'praise and worship'
 tags: 'christianity,church'

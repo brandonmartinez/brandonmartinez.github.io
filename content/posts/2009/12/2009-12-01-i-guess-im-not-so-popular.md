@@ -1,8 +1,6 @@
 ---
-id: "836"
 coverImageUri: ""
 title: "I Guess I'm Not So Popular…"
-date: "2009-12-01"
 datetime: "2009-12-01T11:00:10.000Z"
 categories: "technology"
 tags: "google,search,seo,twitter"

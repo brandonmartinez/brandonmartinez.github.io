@@ -1,8 +1,6 @@
 ---
-id: "11136"
 coverImageUri: ""
 title: "TeamCity and SSDT: Resolve a master.dacpac Missing File Exception"
-date: "2013-03-22"
 datetime: "2013-03-22T17:00:15.000Z"
 categories: "technology"
 tags: "ssdt,teamcity"

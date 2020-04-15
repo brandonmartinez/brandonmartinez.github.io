@@ -1,8 +1,6 @@
 ---
-id: "3258"
 coverImageUri: "3260"
 title: "Git Cheat Sheet"
-date: "2011-06-29"
 datetime: "2011-06-29T16:23:16.000Z"
 categories: "technology"
 tags: "git"

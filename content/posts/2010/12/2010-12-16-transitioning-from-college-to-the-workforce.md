@@ -1,8 +1,6 @@
 ---
-id: "2644"
 coverImageUri: ""
 title: "Transitioning from College to the Workforce"
-date: "2010-12-16"
 datetime: "2010-12-16T06:00:48.000Z"
 categories: "personal"
 tags: "college,internship,networking,print,work"

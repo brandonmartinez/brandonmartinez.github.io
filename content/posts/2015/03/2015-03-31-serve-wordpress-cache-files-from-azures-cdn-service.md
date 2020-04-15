@@ -1,8 +1,6 @@
 ---
-id: '18821'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2015/03/small-blog-big-cloud-featured.jpg'
 title: "Serve WordPress Cache files from Azure's CDN Service"
-date: '2015-03-31'
 datetime: '2015-03-31T16:00:24.000Z'
 categories: 'technology'
 tags: 'azure cdn,azure web apps,azure websites,windows azure'

@@ -1,8 +1,6 @@
 ---
-id: '23251'
 coverImageUri: ''
 title: 'Migration Notes: ASP.NET 5 MVC 6 - Beta 8 to RC 1'
-date: '2015-12-02'
 datetime: '2015-12-02T22:02:17.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,asp.net mvc'

@@ -1,8 +1,6 @@
 ---
-id: '19221'
 coverImageUri: ''
 title: 'Speaking Engagements: NEWCodeCamp 2015'
-date: '2015-03-02'
 datetime: '2015-03-02T14:29:29.000Z'
 categories: 'technology'
 tags: 'conferences,newcodecamp,speaking'

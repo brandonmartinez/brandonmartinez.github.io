@@ -1,8 +1,6 @@
 ---
-id: '23801'
 coverImageUri: ''
 title: '"Working Remotely" on the MS Dev Show'
-date: '2016-02-12'
 datetime: '2016-02-12T13:00:46.000Z'
 categories: 'technology'
 tags: 'ms dev show,podcasts,remote work,telecommuting'

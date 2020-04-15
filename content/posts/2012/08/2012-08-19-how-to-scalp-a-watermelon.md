@@ -1,8 +1,6 @@
 ---
-id: "4066"
 coverImageUri: ""
 title: "How to Scalp a Watermelon"
-date: "2012-08-19"
 datetime: "2012-08-19T19:45:27.000Z"
 categories: "food"
 tags: "food prep,fruit,watermelon"

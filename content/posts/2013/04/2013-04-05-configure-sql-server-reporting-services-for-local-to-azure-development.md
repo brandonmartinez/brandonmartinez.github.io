@@ -1,8 +1,6 @@
 ---
-id: "11102"
 coverImageUri: "11112"
 title: "Configure SQL Server Reporting Services for Local-to-Azure Development"
-date: "2013-04-05"
 datetime: "2013-04-05T16:30:05.000Z"
 categories: "technology"
 tags: ".net,azure reporting services,c#,ssrs,windows azure"

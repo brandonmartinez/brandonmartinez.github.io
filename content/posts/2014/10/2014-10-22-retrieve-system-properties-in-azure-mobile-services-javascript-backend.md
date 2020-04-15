@@ -1,8 +1,6 @@
 ---
-id: "17881"
 coverImageUri: "17941"
 title: "Retrieve System Properties in Azure Mobile Services (JavaScript Backend)"
-date: "2014-10-22"
 datetime: "2014-10-22T21:30:17.000Z"
 categories: "technology"
 tags: "azure mobile services,javascript,windows azure"

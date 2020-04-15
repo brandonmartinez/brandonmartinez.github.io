@@ -1,8 +1,6 @@
 ---
-id: "16841"
 coverImageUri: ""
 title: "Resolve an HTTP Error 500.21 in IIS"
-date: "2014-07-02"
 datetime: "2014-07-02T21:30:34.000Z"
 categories: "technology"
 tags: "asp.net,iis"

@@ -1,8 +1,6 @@
 ---
-id: "91"
 coverImageUri: ""
 title: "iPhone 3GS and OS 3.0 (and the Palm Pre, too)"
-date: "2009-06-09"
 datetime: "2009-06-09T11:20:41.000Z"
 categories: "technology"
 tags: "apple,iphone,palm,phones,pre,reviews,software"

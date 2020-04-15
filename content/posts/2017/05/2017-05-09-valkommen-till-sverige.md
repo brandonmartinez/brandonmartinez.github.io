@@ -1,8 +1,6 @@
 ---
-id: '25851'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/05/MartinezMedia-20170503250-Proof-1000x563.jpg'
 title: 'Välkommen till Sverige!'
-date: '2017-05-09'
 datetime: '2017-05-09T02:04:07.000Z'
 categories: 'personal'
 tags: 'international travel,sweden,travel,work'

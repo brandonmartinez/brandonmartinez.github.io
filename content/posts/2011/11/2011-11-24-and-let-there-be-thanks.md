@@ -1,8 +1,6 @@
 ---
-id: "3568"
 coverImageUri: ""
 title: "And Let There Be Thanks"
-date: "2011-11-24"
 datetime: "2011-11-24T14:58:51.000Z"
 categories: "personal"
 tags: "holidays"

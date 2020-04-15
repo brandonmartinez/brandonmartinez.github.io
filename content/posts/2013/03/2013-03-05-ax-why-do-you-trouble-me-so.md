@@ -1,8 +1,6 @@
 ---
-id: "11047"
 coverImageUri: "11048"
 title: "AX, Why Do You Trouble Me So?"
-date: "2013-03-05"
 datetime: "2013-03-05T12:34:53.000Z"
 categories: "technology"
 tags: "funny,meme,microsoft dynamics ax"

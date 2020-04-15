@@ -1,8 +1,6 @@
 ---
-id: "770"
 coverImageUri: ""
 title: "All You Need is Your ABC's, And the Letter People Can Help"
-date: "2009-11-15"
 datetime: "2009-11-15T05:00:25.000Z"
 categories: "personal"
 tags: "alphabet,elementary school,learning"

@@ -1,8 +1,6 @@
 ---
-id: "1353"
 coverImageUri: ""
 title: "CN: How to Embrace New Media in Three Simple Ways"
-date: "2010-01-25"
 datetime: "2010-01-25T13:28:13.000Z"
 categories: "technology"
 tags: "college newsroom,shared"

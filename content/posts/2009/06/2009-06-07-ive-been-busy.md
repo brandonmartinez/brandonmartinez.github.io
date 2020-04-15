@@ -1,8 +1,6 @@
 ---
-id: "65"
 coverImageUri: ""
 title: "I've Been Busy"
-date: "2009-06-07"
 datetime: "2009-06-07T03:17:19.000Z"
 categories: "technology"
 tags: "site"

@@ -1,8 +1,6 @@
 ---
-id: "3636"
 coverImageUri: ""
 title: "OS X Lion Two Finger Double Tap on Dock Icons"
-date: "2012-01-12"
 datetime: "2012-01-12T13:00:11.000Z"
 categories: "technology"
 tags: "mac os x,tips"

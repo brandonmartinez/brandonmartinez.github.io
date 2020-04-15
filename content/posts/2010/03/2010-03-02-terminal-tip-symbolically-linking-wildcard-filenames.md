@@ -1,8 +1,6 @@
 ---
-id: "1426"
 coverImageUri: "1427"
 title: "Terminal Tip: Symbolically Linking Wildcard Filenames"
-date: "2010-03-02"
 datetime: "2010-03-02T14:41:04.000Z"
 categories: "technology"
 tags: "bash,ln -s,shell,terminal,tips"

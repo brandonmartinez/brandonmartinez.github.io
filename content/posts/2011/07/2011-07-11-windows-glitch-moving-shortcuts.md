@@ -1,8 +1,6 @@
 ---
-id: "3376"
 coverImageUri: ""
 title: "Windows Glitch: Moving Shortcuts"
-date: "2011-07-11"
 datetime: "2011-07-11T23:24:43.000Z"
 categories: "technology"
 tags: "windows 7"

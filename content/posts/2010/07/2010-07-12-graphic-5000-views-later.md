@@ -1,8 +1,6 @@
 ---
-id: "2173"
 coverImageUri: ""
 title: "Graphic: 5,000 Views Later"
-date: "2010-07-12"
 datetime: "2010-07-12T16:00:35.000Z"
 categories: "technology"
 tags: "seo,site,stats"

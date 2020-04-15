@@ -1,8 +1,6 @@
 ---
-id: "400"
 coverImageUri: ""
 title: "SQL UPSERTing in SQL Server 2005 via a Variable Table"
-date: "2009-07-22"
 datetime: "2009-07-22T21:28:13.000Z"
 categories: "technology"
 tags: "sql,sql server 2005,upsert"

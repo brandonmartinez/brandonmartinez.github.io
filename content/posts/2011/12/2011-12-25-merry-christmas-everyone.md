@@ -1,8 +1,6 @@
 ---
-id: "3626"
 coverImageUri: ""
 title: "Merry Christmas, Everyone!"
-date: "2011-12-25"
 datetime: "2011-12-25T05:00:00.000Z"
 categories: "personal"
 tags: "holidays"

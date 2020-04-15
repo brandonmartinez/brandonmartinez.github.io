@@ -1,8 +1,6 @@
 ---
-id: "3373"
 coverImageUri: ""
 title: "LENSBABY.com"
-date: "2011-07-11"
 datetime: "2011-07-11T21:00:55.000Z"
 categories: "photography"
 tags: "lenses"

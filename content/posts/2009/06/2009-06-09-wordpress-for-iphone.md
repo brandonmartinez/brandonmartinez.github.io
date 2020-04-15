@@ -1,8 +1,6 @@
 ---
-id: "73"
 coverImageUri: ""
 title: "WordPress for iPhone"
-date: "2009-06-09"
 datetime: "2009-06-09T11:25:58.000Z"
 categories: "technology"
 tags: "appstore,iphone,reviews,software,wordpress"

@@ -1,8 +1,6 @@
 ---
-id: "2603"
 coverImageUri: ""
 title: "I Hate Catch-Up"
-date: "2010-11-09"
 datetime: "2010-11-09T04:54:14.000Z"
 categories: "personal"
 tags: "rant"

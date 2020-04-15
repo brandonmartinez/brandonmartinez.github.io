@@ -1,8 +1,6 @@
 ---
-id: '23771'
 coverImageUri: ''
 title: 'A Recap of //build/ 2016 on the MS Dev Show'
-date: '2016-04-07'
 datetime: '2016-04-07T04:49:52.000Z'
 categories: 'technology'
 tags: '//build/,microsoft build conference,ms dev show,podcasts'

@@ -1,8 +1,6 @@
 ---
-id: "14781"
 coverImageUri: "15351"
 title: "Mini-Review: X-Rite M50103 ColorChecker (Grayscale)"
-date: "2014-03-13"
 datetime: "2014-03-13T01:40:59.000Z"
 categories: "photography"
 tags: "color correction,lightroom,white balance"

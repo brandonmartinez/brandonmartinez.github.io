@@ -1,8 +1,6 @@
 ---
-id: "1783"
 coverImageUri: ""
 title: "Safari Tip: Remove Failed Pages for Accurate Autocomplete"
-date: "2010-06-22"
 datetime: "2010-06-22T23:00:26.000Z"
 categories: "technology"
 tags: "browsers,safari,tips"

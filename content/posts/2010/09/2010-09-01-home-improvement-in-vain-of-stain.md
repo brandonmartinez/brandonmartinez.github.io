@@ -1,8 +1,6 @@
 ---
-id: "2463"
 coverImageUri: "2466"
 title: "Home Improvement: In Vain of Stain"
-date: "2010-09-01"
 datetime: "2010-09-01T23:26:33.000Z"
 categories: "personal"
 tags: "flooring,home improvement,life lesson,stain,wood"

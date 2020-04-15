@@ -1,13 +1,13 @@
+import { DateTime } from 'luxon';
 import PostService from '../services/PostService';
-import ReactMarkdown from 'react-markdown';
 
-const getRssPostXml = posts => {
-	let latestPostDate = '';
+const getRssPostXml = (posts) => {
+	let latestPost = 0;
 	let rssItemsXml = '';
-	posts.forEach(post => {
-		const postDate = Date.parse(post.publishedAt);
-		if (!latestPostDate || postDate > Date.parse(latestPostDate)) {
-			latestPostDate = post.publishedAt;
+	posts.forEach((post) => {
+		const postDate = DateTime.fromISO(post.publishedAt);
+		if (!latestPost || postDate > latestPost) {
+			latestPost = postDate;
 		}
 		rssItemsXml += `
       <item>
@@ -15,21 +15,26 @@ const getRssPostXml = posts => {
         <link>
           https://www.brandonmartinez.com${post.relativeUri}/
         </link>
+        <guid>
+          https://www.brandonmartinez.com${post.relativeUri}/
+        </guid>
         
-        <pubDate>${post.publishedAt}</pubDate>
+        <pubDate>${postDate.toRFC2822()}</pubDate>
         <description>
-        <![CDATA[${post.excerpt}]]>
+        <![CDATA[
+			${post.excerpt}
+		]]>
         </description>
     </item>`;
 	});
 	return {
 		rssItemsXml,
-		latestPostDate
+		latestPost
 	};
 };
 
-const getRssXml = posts => {
-	const { rssItemsXml, latestPostDate } = getRssPostXml(posts);
+const getRssXml = (posts) => {
+	const { rssItemsXml, latestPost } = getRssPostXml(posts);
 	return `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 		xmlns:content="http://purl.org/rss/1.0/modules/content/"
 		xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -41,10 +46,13 @@ const getRssXml = posts => {
 >
 		<channel>
 			<title>brandon martinez</title>
-			<link>https://www.brandonmartinez.com</link>
+			<link>https://www.brandonmartinez.com/</link>
+			<atom:link href="https://www.brandonmartinez.com/rss.xml" rel="self" type="application/rss+xml" />
 			<description>tech guru and media geek</description>
 			<language>en</language>
-			<lastBuildDate>${latestPostDate}</lastBuildDate>
+			<category>Personal</category>
+			<copyright>Copyright 2006 - ${new Date().getFullYear()}, Brandon Martinez. All rights reserved.</copyright>
+			<lastBuildDate>${latestPost.toRFC2822()}</lastBuildDate>
 			${rssItemsXml}
 		</channel>
 	</rss>`;

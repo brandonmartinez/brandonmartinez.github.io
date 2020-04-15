@@ -1,8 +1,6 @@
 ---
-id: "1803"
 coverImageUri: "1804"
 title: "Apple, You're Too Good To Me"
-date: "2010-06-29"
 datetime: "2010-06-29T04:17:14.000Z"
 categories: "personal"
 tags: "apple,customer service,mouse"

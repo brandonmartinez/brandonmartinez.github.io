@@ -1,8 +1,6 @@
 ---
-id: "3945"
 coverImageUri: ""
 title: "Time to Stand Up"
-date: "2012-03-27"
 datetime: "2012-03-27T12:00:01.000Z"
 categories: "personal"
 tags: "furniture,health,office,work"

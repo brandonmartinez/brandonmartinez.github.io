@@ -1,8 +1,6 @@
 ---
-id: "3878"
 coverImageUri: ""
 title: "The AeroPress"
-date: "2012-01-24"
 datetime: "2012-01-24T01:20:18.000Z"
 categories: "food"
 tags: "coffee"

@@ -1,8 +1,6 @@
 ---
-id: '25031'
 coverImageUri: ''
 title: 'Matters of the Heart'
-date: '2016-02-25'
 datetime: '2016-02-25T03:00:00.000Z'
 categories: 'personal'
 tags: 'family,health'

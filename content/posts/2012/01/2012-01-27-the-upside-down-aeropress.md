@@ -1,8 +1,6 @@
 ---
-id: "3867"
 coverImageUri: ""
 title: "The Upside Down Aeropress"
-date: "2012-01-27"
 datetime: "2012-01-27T13:00:33.000Z"
 categories: "food"
 tags: "coffee"

@@ -1,8 +1,6 @@
 ---
-id: "2948"
 coverImageUri: "2950"
 title: "For Sale: iMac G4 - SOLD"
-date: "2011-03-08"
 datetime: "2011-03-08T04:04:13.000Z"
 categories: "personal"
 tags: "for sale,mac"

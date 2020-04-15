@@ -1,8 +1,6 @@
 ---
-id: "10883"
 coverImageUri: ""
 title: "Resolve Sync Issues Between Google Calendar and OS X Calendar"
-date: "2013-01-07"
 datetime: "2013-01-07T02:36:25.000Z"
 categories: "technology"
 tags: "caldav,google calendar,mac os x,tips"

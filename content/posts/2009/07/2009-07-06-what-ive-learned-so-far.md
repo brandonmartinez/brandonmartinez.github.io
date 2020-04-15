@@ -1,8 +1,6 @@
 ---
-id: "107"
 coverImageUri: ""
 title: "What I've Learned So Far"
-date: "2009-07-06"
 datetime: "2009-07-06T21:20:34.000Z"
 categories: "personal"
 tags: "c#,programming,work,xml,xsl"

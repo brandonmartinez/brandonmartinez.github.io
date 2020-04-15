@@ -1,8 +1,6 @@
 ---
-id: "2208"
 coverImageUri: ""
 title: "iPhone 4: Camera Shutter Won't Open"
-date: "2010-07-16"
 datetime: "2010-07-16T20:17:03.000Z"
 categories: "technology"
 tags: "camera,defects,iphone 4,shutter"

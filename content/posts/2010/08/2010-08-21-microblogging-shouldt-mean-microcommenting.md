@@ -1,8 +1,6 @@
 ---
-id: "2455"
 coverImageUri: "2456"
 title: "Microblogging Should't Mean Microcommenting"
-date: "2010-08-21"
 datetime: "2010-08-21T03:28:28.000Z"
 categories: "technology"
 tags: "commenting,opinion,tumblr"

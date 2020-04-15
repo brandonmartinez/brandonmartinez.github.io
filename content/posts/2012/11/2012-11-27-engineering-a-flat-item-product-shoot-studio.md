@@ -1,8 +1,6 @@
 ---
-id: "10803"
 coverImageUri: "10811"
 title: "Engineering a Flat-Item Product Shoot Studio"
-date: "2012-11-27"
 datetime: "2012-11-27T13:00:20.000Z"
 categories: "photography"
 tags: "camera,lighting setup,photography setup,tips"

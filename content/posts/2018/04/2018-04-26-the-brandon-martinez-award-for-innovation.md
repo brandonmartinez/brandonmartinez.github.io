@@ -1,8 +1,6 @@
 ---
-id: '30394'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2018/04/brandonmartinezawardforinnovationheader.jpg'
 title: 'The Brandon Martinez Award for Innovation'
-date: '2018-04-26'
 datetime: '2018-04-26T14:28:34.000Z'
 categories: 'personal'
 tags: 'awards and honors,ferris state torch'

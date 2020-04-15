@@ -1,8 +1,6 @@
 ---
-id: "10978"
 coverImageUri: ""
 title: "Tip: Find C# Comments Without Space After Delimiter"
-date: "2013-02-07"
 datetime: "2013-02-07T22:30:38.000Z"
 categories: "technology"
 tags: ".net,c#,regex,tips"

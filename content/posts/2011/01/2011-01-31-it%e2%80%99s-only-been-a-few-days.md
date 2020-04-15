@@ -1,8 +1,6 @@
 ---
-id: "2729"
 coverImageUri: ""
 title: "It’s Only Been a Few Days!"
-date: "2011-01-31"
 datetime: "2011-01-31T17:05:58.000Z"
 categories: "personal"
 tags: ""

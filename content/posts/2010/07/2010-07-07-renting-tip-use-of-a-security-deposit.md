@@ -1,8 +1,6 @@
 ---
-id: "2119"
 coverImageUri: ""
 title: "Renting Tip: Use of a Security Deposit"
-date: "2010-07-07"
 datetime: "2010-07-07T02:42:06.000Z"
 categories: "personal"
 tags: "apartments,law,renting,shared"

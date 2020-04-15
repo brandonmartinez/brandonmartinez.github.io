@@ -1,8 +1,6 @@
 ---
-id: "3615"
 coverImageUri: ""
 title: "If You Like Using the Internet…"
-date: "2011-12-13"
 datetime: "2011-12-13T22:00:46.000Z"
 categories: "technology"
 tags: ""

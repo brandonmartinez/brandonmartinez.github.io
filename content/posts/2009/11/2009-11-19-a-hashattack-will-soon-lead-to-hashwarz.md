@@ -1,8 +1,6 @@
 ---
-id: "806"
 coverImageUri: ""
 title: "A #hashattack Will Soon Lead to #hashwarz"
-date: "2009-11-19"
 datetime: "2009-11-19T20:08:13.000Z"
 categories: "technology"
 tags: "hashtags,internet,twitter"

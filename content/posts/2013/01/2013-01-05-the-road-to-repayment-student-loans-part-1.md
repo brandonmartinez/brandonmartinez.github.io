@@ -1,8 +1,6 @@
 ---
-id: "10936"
 coverImageUri: ""
 title: "The Road to Repayment: Student Loans Part 1"
-date: "2013-01-05"
 datetime: "2013-01-05T16:09:04.000Z"
 categories: "personal"
 tags: "finance,school,student loans"

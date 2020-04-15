@@ -1,8 +1,6 @@
 ---
-id: "10726"
 coverImageUri: ""
 title: "Force HTTPS Across an ASP.NET MVC Application"
-date: "2012-11-19"
 datetime: "2012-11-19T23:00:35.000Z"
 categories: "technology"
 tags: ".net,c#,mvc"

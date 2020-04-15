@@ -1,8 +1,6 @@
 ---
-id: "1494"
 coverImageUri: ""
 title: "Git, Capistrano, SSH, and WordPress: Revisited"
-date: "2010-03-28"
 datetime: "2010-03-28T14:31:15.000Z"
 categories: "technology"
 tags: "capistrano,deployment,php,programming,ruby,ssh"

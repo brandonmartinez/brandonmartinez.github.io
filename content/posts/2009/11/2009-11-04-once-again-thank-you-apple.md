@@ -1,8 +1,6 @@
 ---
-id: "649"
 coverImageUri: "650"
 title: "Once Again, Thank You Apple"
-date: "2009-11-04"
 datetime: "2009-11-04T16:06:12.000Z"
 categories: "technology"
 tags: "apple inc,customer service,hardware,headphones"

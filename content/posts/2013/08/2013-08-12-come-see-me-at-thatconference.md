@@ -1,8 +1,6 @@
 ---
-id: "11495"
 coverImageUri: ""
 title: "Come See Me at #THATconference"
-date: "2013-08-12"
 datetime: "2013-08-12T04:43:32.000Z"
 categories: "technology"
 tags: ".net,conferences,microsoft"

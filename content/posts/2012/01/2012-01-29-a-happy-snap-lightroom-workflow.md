@@ -1,8 +1,6 @@
 ---
-id: "3891"
 coverImageUri: ""
 title: "A “Happy Snap” Lightroom Workflow"
-date: "2012-01-29"
 datetime: "2012-01-29T04:00:36.000Z"
 categories: "photography"
 tags: "lightroom,workflow"

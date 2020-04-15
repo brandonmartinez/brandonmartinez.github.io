@@ -1,8 +1,6 @@
 ---
-id: "11208"
 coverImageUri: ""
 title: "Resolve NetworkService Account Not GZIPing IIS Responses"
-date: "2013-06-17"
 datetime: "2013-06-17T16:30:15.000Z"
 categories: "technology"
 tags: "asp.net,compression,gzip,iis"

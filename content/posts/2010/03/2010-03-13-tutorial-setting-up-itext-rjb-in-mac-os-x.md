@@ -1,8 +1,6 @@
 ---
-id: "1443"
 coverImageUri: "1450"
 title: "Tutorial: Setting up iText and RJB in Mac OS X"
-date: "2010-03-13"
 datetime: "2010-03-13T14:32:36.000Z"
 categories: "technology"
 tags: "itext,pdf,ruby on rails,tutorial"

@@ -1,8 +1,6 @@
 ---
-id: "3641"
 coverImageUri: ""
 title: "Structuring Unit Tests"
-date: "2012-01-30"
 datetime: "2012-01-30T13:00:18.000Z"
 categories: "technology"
 tags: ".net,c#,unit testing"

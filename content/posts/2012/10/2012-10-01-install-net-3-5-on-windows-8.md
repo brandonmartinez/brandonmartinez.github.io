@@ -1,8 +1,6 @@
 ---
-id: "4091"
 coverImageUri: ""
 title: "Install .NET 3.5 on Windows 8"
-date: "2012-10-01"
 datetime: "2012-10-01T12:59:47.000Z"
 categories: "technology"
 tags: ".net,tips,windows,windows 8"

@@ -1,8 +1,6 @@
 ---
-id: "12851"
 coverImageUri: "13041"
 title: "Having a Virtual Presence"
-date: "2014-01-11"
 datetime: "2014-01-11T19:12:28.000Z"
 categories: "technology"
 tags: "case study,remoting,telecommuting,virtual presence,work"

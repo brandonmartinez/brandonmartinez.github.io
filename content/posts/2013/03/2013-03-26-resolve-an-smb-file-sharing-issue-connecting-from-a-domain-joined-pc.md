@@ -1,8 +1,6 @@
 ---
-id: "11125"
 coverImageUri: "11134"
 title: "Resolve an SMB File Sharing Issue Connecting From a Domain-Joined PC"
-date: "2013-03-26"
 datetime: "2013-03-26T16:30:12.000Z"
 categories: "technology"
 tags: "file sharing,mac os x,smb,windows"

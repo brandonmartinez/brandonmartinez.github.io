@@ -1,8 +1,6 @@
 ---
-id: "3676"
 coverImageUri: ""
 title: "Awesome Coffee Maker: The Balancing Siphon"
-date: "2012-01-16"
 datetime: "2012-01-16T13:00:16.000Z"
 categories: "food"
 tags: "coffee"

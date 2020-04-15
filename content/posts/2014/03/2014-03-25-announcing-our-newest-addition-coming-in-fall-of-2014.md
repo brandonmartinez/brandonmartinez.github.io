@@ -1,8 +1,6 @@
 ---
-id: "15251"
 coverImageUri: "15381"
 title: "Announcing Our Newest Addition Coming in Fall of 2014"
-date: "2014-03-25"
 datetime: "2014-03-25T16:00:48.000Z"
 categories: "personal"
 tags: "announcements,family,pregnancy"

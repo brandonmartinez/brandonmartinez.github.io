@@ -1,8 +1,6 @@
 ---
-id: "11478"
 coverImageUri: "13431"
 title: "Free Windows and IE Virtual Machines for Cross-Browser Testing"
-date: "2014-01-14"
 datetime: "2014-01-14T22:30:09.000Z"
 categories: "technology"
 tags: "cross browser testing,web development"

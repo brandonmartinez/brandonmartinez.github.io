@@ -1,8 +1,6 @@
 ---
-id: "10836"
 coverImageUri: ""
 title: "Fix a \"Check Client Version\" Error in Azure Shared Caching"
-date: "2012-11-28"
 datetime: "2012-11-28T00:00:31.000Z"
 categories: "technology"
 tags: ".net,c#,cloud computing,windows azure"

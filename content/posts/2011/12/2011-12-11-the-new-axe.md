@@ -1,8 +1,6 @@
 ---
-id: "3588"
 coverImageUri: "3593"
 title: "The New Axe"
-date: "2011-12-11"
 datetime: "2011-12-11T06:10:47.000Z"
 categories: "personal"
 tags: "guitar,music"

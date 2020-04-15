@@ -1,8 +1,6 @@
 ---
-id: "3791"
 coverImageUri: "3797"
 title: "Pulled Pork Under Pressure"
-date: "2012-01-08"
 datetime: "2012-01-08T02:39:09.000Z"
 categories: "food"
 tags: "recipe"

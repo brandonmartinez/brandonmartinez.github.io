@@ -1,8 +1,6 @@
 ---
-id: "3762"
 coverImageUri: "3764"
 title: "Cuban Lime Pork Steak Over Spanish Rice"
-date: "2012-01-07"
 datetime: "2012-01-07T13:00:47.000Z"
 categories: "food"
 tags: "mexican food,recipe"

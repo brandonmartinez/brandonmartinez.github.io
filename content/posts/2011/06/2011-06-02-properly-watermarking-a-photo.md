@@ -1,8 +1,6 @@
 ---
-id: "3069"
 coverImageUri: "3083"
 title: "Properly Watermarking a Photo"
-date: "2011-06-02"
 datetime: "2011-06-02T02:27:44.000Z"
 categories: "photography"
 tags: "opinion,watermarking"

@@ -1,8 +1,6 @@
 ---
-id: '24251'
 coverImageUri: ''
 title: 'MS Dev Show at THAT Conference Featuring… Me!'
-date: '2016-08-16'
 datetime: '2016-08-16T13:35:44.000Z'
 categories: 'technology'
 tags: 'ms dev show'

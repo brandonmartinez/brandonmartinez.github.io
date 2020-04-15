@@ -1,8 +1,6 @@
 ---
-id: "11063"
 coverImageUri: "11074"
 title: "Setup APC (Alternative PHP Cache) on Dreamhost Shared Hosting"
-date: "2013-03-16"
 datetime: "2013-03-16T15:00:23.000Z"
 categories: "technology"
 tags: "dreamhost,php,web hosting,wordpress"

@@ -1,8 +1,6 @@
 ---
-id: "11039"
 coverImageUri: "11040"
 title: "Facebook Puzzle Solution: Find a City Without a Letter"
-date: "2013-02-28"
 datetime: "2013-02-28T21:30:44.000Z"
 categories: "technology"
 tags: "facebook,regex"

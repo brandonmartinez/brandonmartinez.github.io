@@ -1,7 +1,6 @@
 ---
 coverImageUri: ''
 title: 'Coffee with Brandon and Joy'
-date: '2020-04-11'
 datetime: '2020-04-11T08:00:00.000Z'
 categories: 'personal'
 tags: 'livestream,coffee'

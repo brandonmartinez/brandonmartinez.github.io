@@ -1,8 +1,6 @@
 ---
-id: "11501"
 coverImageUri: "11523"
 title: "#THATconference 2013 Recap"
-date: "2013-08-22"
 datetime: "2013-08-22T13:00:52.000Z"
 categories: "technology"
 tags: ".net,#THATconference,conferences"

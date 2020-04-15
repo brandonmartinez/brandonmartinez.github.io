@@ -1,8 +1,6 @@
 ---
-id: "3576"
 coverImageUri: ""
 title: "Resolve a Frozen Finder in OS X Lion"
-date: "2011-11-26"
 datetime: "2011-11-26T05:34:44.000Z"
 categories: "technology"
 tags: "mac os x"

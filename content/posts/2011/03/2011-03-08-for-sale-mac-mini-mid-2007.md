@@ -1,8 +1,6 @@
 ---
-id: "2930"
 coverImageUri: "2935"
 title: "For Sale: Mac Mini (Mid 2007)"
-date: "2011-03-08"
 datetime: "2011-03-08T02:35:58.000Z"
 categories: "personal"
 tags: "for sale,mac"

@@ -1,8 +1,6 @@
 ---
-id: "11017"
 coverImageUri: ""
 title: "Run All Unit Tests in Team City"
-date: "2013-02-15"
 datetime: "2013-02-15T17:30:43.000Z"
 categories: "technology"
 tags: ".net,teamcity,unit testing"

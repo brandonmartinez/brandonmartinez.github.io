@@ -1,8 +1,6 @@
 ---
-id: "11335"
 coverImageUri: ""
 title: "A Summertime Treat: Savory S'mores"
-date: "2013-07-23"
 datetime: "2013-07-23T16:15:19.000Z"
 categories: "food"
 tags: "campfire,summer"

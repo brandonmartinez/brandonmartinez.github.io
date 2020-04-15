@@ -1,8 +1,6 @@
 ---
-id: "1370"
 coverImageUri: ""
 title: "The New (New, New) Facebook: My Favorite Update"
-date: "2010-02-07"
 datetime: "2010-02-07T02:47:16.000Z"
 categories: "technology"
 tags: "facebook,facebook apps"

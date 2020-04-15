@@ -1,8 +1,6 @@
 ---
-id: '23143'
 coverImageUri: ''
 title: 'Deploy ASP.NET 5 Binaries via DNU'
-date: '2015-10-30'
 datetime: '2015-10-30T20:51:32.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx'

@@ -1,8 +1,6 @@
 ---
-id: "10912"
 coverImageUri: ""
 title: "Video: Seamless Paper for Studio Photography"
-date: "2012-12-08"
 datetime: "2012-12-08T17:04:45.000Z"
 categories: "photography"
 tags: "backgrounds,studio,tips"

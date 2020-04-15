@@ -1,8 +1,6 @@
 ---
-id: '18671'
 coverImageUri: 'http://assets.martinezmedia.net/brandonmartinez/2015/01/Untitled-1.jpg'
 title: "Yesterday's Big News: Promoted!"
-date: '2015-01-10'
 datetime: '2015-01-10T23:41:59.000Z'
 categories: 'personal'
 tags: 'promotion,work'

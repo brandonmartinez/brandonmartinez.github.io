@@ -1,8 +1,6 @@
 ---
-id: "11119"
 coverImageUri: "11121"
 title: "Simultaneously Build Multiple VCS Branches In TeamCity"
-date: "2013-03-29"
 datetime: "2013-03-29T16:30:45.000Z"
 categories: "technology"
 tags: "agile,continuous integration,scrum,teamcity,tips"

@@ -1,8 +1,6 @@
 ---
-id: "3364"
 coverImageUri: ""
 title: "Quick Tip: Constructing Your Own Freestanding Reflector"
-date: "2011-07-09"
 datetime: "2011-07-09T20:58:35.000Z"
 categories: "photography"
 tags: ""

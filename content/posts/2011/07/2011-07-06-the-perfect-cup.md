@@ -1,8 +1,6 @@
 ---
-id: "3266"
 coverImageUri: "3289"
 title: "The Perfect Cup"
-date: "2011-07-06"
 datetime: "2011-07-06T03:48:37.000Z"
 categories: "food"
 tags: "coffee"

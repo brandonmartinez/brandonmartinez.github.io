@@ -1,8 +1,6 @@
 ---
-id: "925"
 coverImageUri: ""
 title: "Version 2.9 « WordPress Codex"
-date: "2009-12-19"
 datetime: "2009-12-19T14:20:08.000Z"
 categories: "technology"
 tags: "shared,wordpress"

@@ -1,8 +1,6 @@
 ---
-id: "11659"
 coverImageUri: ""
 title: "Get a Real, Reliable Alarm Clock!"
-date: "2013-11-03"
 datetime: "2013-11-03T15:15:38.000Z"
 categories: "technology"
 tags: "alarm clock,daylight saving time,mobile phones"

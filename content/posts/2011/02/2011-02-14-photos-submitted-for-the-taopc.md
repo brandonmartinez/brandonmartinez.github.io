@@ -1,8 +1,6 @@
 ---
-id: "2856"
 coverImageUri: "2857"
 title: "Photos Submitted for the TAOPC!"
-date: "2011-02-14"
 datetime: "2011-02-14T13:31:45.000Z"
 categories: "photography"
 tags: "contest"

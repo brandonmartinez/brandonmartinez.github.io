@@ -1,8 +1,6 @@
 ---
-id: "2507"
 coverImageUri: "2508"
 title: "Floor Update: It’s Done!"
-date: "2010-09-07"
 datetime: "2010-09-07T21:02:07.000Z"
 categories: "personal"
 tags: "flooring,home improvement"

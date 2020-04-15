@@ -1,8 +1,6 @@
 ---
-id: "3008"
 coverImageUri: "3009"
 title: "I'm Number One (Again)!"
-date: "2011-03-27"
 datetime: "2011-03-27T07:19:39.000Z"
 categories: "technology"
 tags: "google,search,seo,site"

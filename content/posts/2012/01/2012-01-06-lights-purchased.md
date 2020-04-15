@@ -1,8 +1,6 @@
 ---
-id: "3749"
 coverImageUri: ""
 title: "Lights: Purchased!"
-date: "2012-01-06"
 datetime: "2012-01-06T23:00:56.000Z"
 categories: "photography"
 tags: ""

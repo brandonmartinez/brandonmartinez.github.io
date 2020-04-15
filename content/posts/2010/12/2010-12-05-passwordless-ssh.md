@@ -1,8 +1,6 @@
 ---
-id: "2623"
 coverImageUri: ""
 title: "Passwordless SSH"
-date: "2010-12-05"
 datetime: "2010-12-05T14:00:56.000Z"
 categories: "technology"
 tags: "ssh,terminal"

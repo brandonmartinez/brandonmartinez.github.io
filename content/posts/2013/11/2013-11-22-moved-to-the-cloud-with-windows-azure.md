@@ -1,8 +1,6 @@
 ---
-id: "12361"
 coverImageUri: ""
 title: "Moved to the Cloud with Windows Azure"
-date: "2013-11-22"
 datetime: "2013-11-22T13:00:31.000Z"
 categories: "technology"
 tags: "cloud computing,web hosting,windows azure"

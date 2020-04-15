@@ -1,8 +1,6 @@
 ---
-id: "11542"
 coverImageUri: "11543"
 title: "Lifehack: Easily Straighten Dress Shirts with a Flat Iron"
-date: "2013-08-23"
 datetime: "2013-08-23T13:00:09.000Z"
 categories: "personal"
 tags: "clothing,lifehack"

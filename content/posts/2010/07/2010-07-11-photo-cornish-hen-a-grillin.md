@@ -1,8 +1,6 @@
 ---
-id: "2129"
 coverImageUri: "2130"
 title: "Cornish Hen a' Grillin'"
-date: "2010-07-11"
 datetime: "2010-07-11T14:57:10.000Z"
 categories: "food"
 tags: "grilling"

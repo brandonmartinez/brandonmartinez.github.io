@@ -1,8 +1,6 @@
 ---
-id: '19581'
 coverImageUri: ''
 title: 'Speaking Engagements: Chicago Code Camp 2015'
-date: '2015-03-24'
 datetime: '2015-03-24T02:47:22.000Z'
 categories: 'technology'
 tags: ''

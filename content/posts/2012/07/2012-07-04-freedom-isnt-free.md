@@ -1,8 +1,6 @@
 ---
-id: "4022"
 coverImageUri: ""
 title: "Freedom Isn't Free"
-date: "2012-07-04"
 datetime: "2012-07-04T12:34:24.000Z"
 categories: "personal"
 tags: "holidays,politics"

@@ -1,8 +1,6 @@
 ---
-id: "1810"
 coverImageUri: ""
 title: "Site Revisions Coming Soon"
-date: "2010-06-29"
 datetime: "2010-06-29T11:00:44.000Z"
 categories: "technology"
 tags: "site,updates"

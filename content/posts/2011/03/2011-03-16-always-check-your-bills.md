@@ -1,8 +1,6 @@
 ---
-id: "2988"
 coverImageUri: "2989"
 title: "Always Check Your Bills"
-date: "2011-03-16"
 datetime: "2011-03-16T12:34:16.000Z"
 categories: "personal"
 tags: "bills,finance,tips,utilities"

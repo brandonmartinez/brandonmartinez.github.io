@@ -1,8 +1,6 @@
 ---
-id: "11557"
 coverImageUri: ""
 title: "Byte Rot: Performance Comparison of Code Invocation Methods in .NET"
-date: "2013-09-26"
 datetime: "2013-09-26T16:30:45.000Z"
 categories: "technology"
 tags: ".net,c#"

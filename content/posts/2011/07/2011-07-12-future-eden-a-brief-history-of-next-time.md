@@ -1,8 +1,6 @@
 ---
-id: "3285"
 coverImageUri: ""
 title: "Future Eden: A Brief History of Next Time"
-date: "2011-07-12"
 datetime: "2011-07-12T00:29:13.000Z"
 categories: "personal"
 tags: ""

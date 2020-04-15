@@ -1,8 +1,6 @@
 ---
-id: "11648"
 coverImageUri: ""
 title: "We Have a Photo Featured at SmugMug Education"
-date: "2013-10-31"
 datetime: "2013-10-31T16:47:59.000Z"
 categories: "photography"
 tags: "photos by brandon &amp; joy,smugmug"

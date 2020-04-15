@@ -1,8 +1,6 @@
 ---
-id: "3403"
 coverImageUri: ""
 title: "Use Subdirectories Within the ASP.NET bin Folder"
-date: "2011-07-15"
 datetime: "2011-07-15T21:00:38.000Z"
 categories: "technology"
 tags: "asp.net,c#"

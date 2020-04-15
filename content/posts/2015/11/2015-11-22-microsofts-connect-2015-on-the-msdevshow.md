@@ -1,8 +1,6 @@
 ---
-id: '23201'
 coverImageUri: ''
 title: "Microsoft's Connect(); // 2015 on the #msdevshow"
-date: '2015-11-22'
 datetime: '2015-11-22T22:00:36.000Z'
 categories: 'technology'
 tags: 'asp.net,asp.net 5,ms dev show,podcasts'

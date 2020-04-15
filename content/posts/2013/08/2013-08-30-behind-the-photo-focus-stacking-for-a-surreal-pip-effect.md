@@ -1,8 +1,6 @@
 ---
-id: "11561"
 coverImageUri: "11562"
 title: "Behind the Photo: Focus Stacking for a Surreal PiP Effect"
-date: "2013-08-30"
 datetime: "2013-08-30T04:32:39.000Z"
 categories: "photography"
 tags: "focus stacking,portraits"

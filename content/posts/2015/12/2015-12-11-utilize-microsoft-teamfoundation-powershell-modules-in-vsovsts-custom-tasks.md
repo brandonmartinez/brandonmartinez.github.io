@@ -1,9 +1,7 @@
 ---
-id: '23361'
 coverImageUri: ''
 title:
   'Utilize Microsoft.TeamFoundation PowerShell Modules in VSO/VSTS Custom Tasks'
-date: '2015-12-11'
 datetime: '2015-12-11T13:00:13.000Z'
 categories: 'technology'
 tags: 'powershell,visual studio online,visual studio team services'

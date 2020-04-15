@@ -1,8 +1,6 @@
 ---
-id: "11344"
 coverImageUri: "11345"
 title: "Photoset: Lighting Workshop and Family Photos"
-date: "2013-07-23"
 datetime: "2013-07-23T16:00:26.000Z"
 categories: "photography"
 tags: "photos by brandon &amp; joy,photoset,smugmug"

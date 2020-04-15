@@ -1,8 +1,6 @@
 ---
-id: "2492"
 coverImageUri: ""
 title: "We Bought a House!"
-date: "2010-09-02"
 datetime: "2010-09-02T00:41:43.000Z"
 categories: "personal"
 tags: "homeownership"

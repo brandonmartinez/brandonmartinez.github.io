@@ -1,8 +1,6 @@
 ---
-id: "10917"
 coverImageUri: "10921"
 title: "Recipe: Spinach and Artichoke Fondue"
-date: "2012-12-08"
 datetime: "2012-12-08T22:59:28.000Z"
 categories: "food"
 tags: "dips,fondue"

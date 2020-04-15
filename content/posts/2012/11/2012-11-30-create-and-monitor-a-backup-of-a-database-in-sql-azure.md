@@ -1,8 +1,6 @@
 ---
-id: "10873"
 coverImageUri: ""
 title: "Create and Monitor a Backup of a Database in SQL Azure"
-date: "2012-11-30"
 datetime: "2012-11-30T23:00:35.000Z"
 categories: "technology"
 tags: "sql,sql server,tips,windows azure"

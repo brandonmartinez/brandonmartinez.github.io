@@ -1,8 +1,6 @@
 ---
-id: "3360"
 coverImageUri: "3362"
 title: "PressWork"
-date: "2011-07-09"
 datetime: "2011-07-09T20:30:31.000Z"
 categories: "technology"
 tags: "html,wordpress"

@@ -1,8 +1,6 @@
 ---
-id: "1367"
 coverImageUri: ""
 title: "Facebook Feature Request: Daily Updates"
-date: "2010-02-04"
 datetime: "2010-02-04T14:37:01.000Z"
 categories: "technology"
 tags: "facebook,feature request"

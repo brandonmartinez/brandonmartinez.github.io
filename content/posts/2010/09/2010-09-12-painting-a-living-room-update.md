@@ -1,8 +1,6 @@
 ---
-id: "2532"
 coverImageUri: "2546"
 title: "Painting: A Living Room Update"
-date: "2010-09-12"
 datetime: "2010-09-12T14:46:04.000Z"
 categories: "personal"
 tags: "home improvement,painting"

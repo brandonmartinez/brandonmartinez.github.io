@@ -1,8 +1,6 @@
 ---
-id: "11161"
 coverImageUri: ""
 title: "Download All Available Line 6 Custom Tones"
-date: "2013-04-05"
 datetime: "2013-04-05T03:00:27.000Z"
 categories: "personal"
 tags: "guitar,line 6,music"

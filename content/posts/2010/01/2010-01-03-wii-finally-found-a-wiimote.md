@@ -1,8 +1,6 @@
 ---
-id: "1025"
 coverImageUri: ""
 title: "Wii Finally Found a Wiimote!"
-date: "2010-01-03"
 datetime: "2010-01-03T15:01:37.000Z"
 categories: "personal,technology"
 tags: "gaming,wii,wiimote"

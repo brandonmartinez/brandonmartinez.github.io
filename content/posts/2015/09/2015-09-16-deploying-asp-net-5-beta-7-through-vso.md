@@ -1,8 +1,6 @@
 ---
-id: '22601'
 coverImageUri: ''
 title: 'Deploying ASP.NET 5 Beta 7 Through Visual Studio Online'
-date: '2015-09-16'
 datetime: '2015-09-16T19:00:13.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,visual studio,visual studio online'

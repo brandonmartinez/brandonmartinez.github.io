@@ -1,8 +1,6 @@
 ---
-id: '22021'
 coverImageUri: ''
 title: 'Resolve an ASP.NET 5 Deployment Issue to Azure Web App Slot'
-date: '2015-09-09'
 datetime: '2015-09-09T23:00:00.000Z'
 categories: 'technology'
 tags:

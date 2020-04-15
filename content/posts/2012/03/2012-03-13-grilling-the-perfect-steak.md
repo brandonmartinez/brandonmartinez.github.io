@@ -1,8 +1,6 @@
 ---
-id: "3926"
 coverImageUri: "3928"
 title: "Grilling the Perfect Steak"
-date: "2012-03-13"
 datetime: "2012-03-13T12:00:10.000Z"
 categories: "food"
 tags: "grilling,steak"

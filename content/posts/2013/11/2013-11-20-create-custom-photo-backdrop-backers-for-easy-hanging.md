@@ -1,8 +1,6 @@
 ---
-id: "11791"
 coverImageUri: "11951"
 title: "Create Custom Photo Backdrop Backers for Easy Hanging"
-date: "2013-11-20"
 datetime: "2013-11-20T13:00:13.000Z"
 categories: "photography"
 tags: "backdrops,lifehack"

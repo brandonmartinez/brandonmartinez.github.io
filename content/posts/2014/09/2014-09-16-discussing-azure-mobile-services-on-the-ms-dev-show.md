@@ -1,8 +1,6 @@
 ---
-id: "17581"
 coverImageUri: "17851"
 title: "Discussing Azure Mobile Services on the MS Dev Show"
-date: "2014-09-16"
 datetime: "2014-09-16T13:21:00.000Z"
 categories: "technology"
 tags: "azure mobile services,ms dev show,podcasts,windows azure"

@@ -1,8 +1,6 @@
 ---
-id: "2432"
 coverImageUri: "2434"
 title: "Goodwill Hunting: The Soo"
-date: "2010-08-18"
 datetime: "2010-08-18T03:17:57.000Z"
 categories: "personal"
 tags: "goodwill,shopping,thrift store"

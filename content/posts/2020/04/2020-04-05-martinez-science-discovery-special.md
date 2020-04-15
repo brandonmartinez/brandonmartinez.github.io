@@ -1,7 +1,6 @@
 ---
 coverImageUri: ''
 title: 'Martinez Science Discovery Special'
-date: '2020-04-05'
 datetime: '2020-04-05T08:00:00.000Z'
 categories: 'personal'
 tags: 'livestream,facebook,science,microscope'

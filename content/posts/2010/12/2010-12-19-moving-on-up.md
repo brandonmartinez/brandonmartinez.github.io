@@ -1,8 +1,6 @@
 ---
-id: "2666"
 coverImageUri: ""
 title: "Moving On Up"
-date: "2010-12-19"
 datetime: "2010-12-19T23:30:57.000Z"
 categories: "personal"
 tags: "promotion,work"

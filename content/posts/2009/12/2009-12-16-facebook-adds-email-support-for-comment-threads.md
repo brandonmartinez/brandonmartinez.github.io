@@ -1,8 +1,6 @@
 ---
-id: "901"
 coverImageUri: ""
 title: "Facebook Adds Email Support for Comment Threads"
-date: "2009-12-16"
 datetime: "2009-12-16T06:00:27.000Z"
 categories: "technology"
 tags: "email,facebook,social media"

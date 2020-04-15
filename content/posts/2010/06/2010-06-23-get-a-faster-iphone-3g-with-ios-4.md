@@ -1,8 +1,6 @@
 ---
-id: "1795"
 coverImageUri: ""
 title: "Get a Faster iPhone 3G With iOS 4"
-date: "2010-06-23"
 datetime: "2010-06-23T22:00:53.000Z"
 categories: "technology"
 tags: "ios,iphone,jailbreak"

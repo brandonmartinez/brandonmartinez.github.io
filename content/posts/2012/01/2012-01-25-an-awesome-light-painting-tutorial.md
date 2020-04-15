@@ -1,8 +1,6 @@
 ---
-id: "3800"
 coverImageUri: ""
 title: "An Awesome Light Painting Tutorial"
-date: "2012-01-25"
 datetime: "2012-01-25T13:00:54.000Z"
 categories: "photography"
 tags: "tips"

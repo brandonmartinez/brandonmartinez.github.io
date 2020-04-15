@@ -1,8 +1,6 @@
 ---
-id: "826"
 coverImageUri: ""
 title: "FSU Torch: Hit Me on the Tweet Side"
-date: "2009-11-19"
 datetime: "2009-11-19T23:00:28.000Z"
 categories: "technology"
 tags: "ferris state torch,journalism,twitter"

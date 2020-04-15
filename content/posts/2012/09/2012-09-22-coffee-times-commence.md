@@ -1,8 +1,6 @@
 ---
-id: "4078"
 coverImageUri: "4085"
 title: "Coffee Times: Commence!"
-date: "2012-09-22"
 datetime: "2012-09-22T21:00:01.000Z"
 categories: "food"
 tags: "coffee,food prep"

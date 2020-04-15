@@ -1,8 +1,6 @@
 ---
-id: "11218"
 coverImageUri: ""
 title: "SQL DELETE or INSERT Fail with Incorrect 'QUOTED_IDENTIFIER' SET Options"
-date: "2013-06-18"
 datetime: "2013-06-18T18:30:08.000Z"
 categories: "technology"
 tags: "continuous integration,sql,sql server"

@@ -1,8 +1,6 @@
 ---
-id: "3771"
 coverImageUri: ""
 title: "A Creative Use For Flash Triggers"
-date: "2012-01-09"
 datetime: "2012-01-09T13:00:34.000Z"
 categories: "photography"
 tags: "tips"

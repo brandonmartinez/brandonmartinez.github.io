@@ -1,8 +1,6 @@
 ---
-id: "3503"
 coverImageUri: "3504"
 title: "Drip to Perc: A Coffee Story"
-date: "2011-09-30"
 datetime: "2011-09-30T12:00:10.000Z"
 categories: "food"
 tags: "coffee"

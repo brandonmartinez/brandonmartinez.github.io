@@ -1,8 +1,6 @@
 ---
-id: "1711"
 coverImageUri: "1713"
 title: "Recipe: Mexican Fiesta Platter"
-date: "2010-05-26"
 datetime: "2010-05-26T00:22:34.000Z"
 categories: "food"
 tags: "mexican food,recipe,wok"

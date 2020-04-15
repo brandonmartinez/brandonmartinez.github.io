@@ -1,8 +1,6 @@
 ---
-id: "1626"
 coverImageUri: ""
 title: "Quiero Aprender el Idioma: Spanish Learning Resources"
-date: "2010-04-20"
 datetime: "2010-04-20T14:07:19.000Z"
 categories: "personal"
 tags: "español,ferris state university,language"

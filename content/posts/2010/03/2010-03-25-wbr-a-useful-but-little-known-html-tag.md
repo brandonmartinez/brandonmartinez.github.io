@@ -1,8 +1,6 @@
 ---
-id: "1474"
 coverImageUri: "1475"
 title: "<WBR>: A Useful, but Little-Known, HTML Tag"
-date: "2010-03-25"
 datetime: "2010-03-25T04:00:26.000Z"
 categories: "technology"
 tags: "html,tags,tips,wbr"

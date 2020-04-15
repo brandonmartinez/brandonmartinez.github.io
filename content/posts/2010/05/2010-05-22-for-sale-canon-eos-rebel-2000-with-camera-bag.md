@@ -1,8 +1,6 @@
 ---
-id: "1693"
 coverImageUri: ""
 title: "For Sale: Canon EOS Rebel 2000 with Camera Bag"
-date: "2010-05-22"
 datetime: "2010-05-22T20:31:34.000Z"
 categories: "photography"
 tags: "camera,for sale"

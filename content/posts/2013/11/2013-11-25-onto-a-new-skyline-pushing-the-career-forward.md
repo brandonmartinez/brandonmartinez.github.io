@@ -1,8 +1,6 @@
 ---
-id: "11681"
 coverImageUri: ""
 title: "Onto a New Skyline: Pushing the Career Forward"
-date: "2013-11-25"
 datetime: "2013-11-25T13:00:09.000Z"
 categories: "personal"
 tags: "work"

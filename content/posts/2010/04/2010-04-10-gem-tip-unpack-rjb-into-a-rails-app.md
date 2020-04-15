@@ -1,8 +1,6 @@
 ---
-id: "1560"
 coverImageUri: ""
 title: "Gem Tip: Unpack RJB into a Rails App"
-date: "2010-04-10"
 datetime: "2010-04-10T16:02:41.000Z"
 categories: "technology"
 tags: "rjb,ruby gems,ruby on rails"

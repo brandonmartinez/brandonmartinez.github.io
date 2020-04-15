@@ -1,8 +1,6 @@
 ---
-id: '20971'
 coverImageUri: ''
 title: 'Ready for Camp? THAT Conference 2015 is Almost Here!'
-date: '2015-07-28'
 datetime: '2015-07-28T12:52:01.000Z'
 categories: 'technology'
 tags: '#THATconference,programming,software development'

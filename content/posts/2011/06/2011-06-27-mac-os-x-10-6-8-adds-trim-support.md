@@ -1,8 +1,6 @@
 ---
-id: "3247"
 coverImageUri: ""
 title: "Mac OS X 10.6.8 Adds TRIM Support"
-date: "2011-06-27"
 datetime: "2011-06-27T17:56:23.000Z"
 categories: "technology"
 tags: "mac os x"

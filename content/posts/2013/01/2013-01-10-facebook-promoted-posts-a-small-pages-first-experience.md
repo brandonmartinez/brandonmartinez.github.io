@@ -1,8 +1,6 @@
 ---
-id: "10949"
 coverImageUri: ""
 title: "Facebook Promoted Posts: A Small Page's First Experience"
-date: "2013-01-10"
 datetime: "2013-01-10T03:00:45.000Z"
 categories: "technology"
 tags: "advertising,facebook,social media"

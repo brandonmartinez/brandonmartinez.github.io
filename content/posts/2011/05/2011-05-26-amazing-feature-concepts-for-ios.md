@@ -1,8 +1,6 @@
 ---
-id: "3073"
 coverImageUri: ""
 title: "Amazing Feature-Concepts for iOS"
-date: "2011-05-26"
 datetime: "2011-05-26T15:58:25.000Z"
 categories: "technology"
 tags: "ios"

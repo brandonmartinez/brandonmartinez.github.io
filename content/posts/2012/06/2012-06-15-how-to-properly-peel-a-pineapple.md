@@ -1,8 +1,6 @@
 ---
-id: "4001"
 coverImageUri: "4002"
 title: "How to Properly Peel a Pineapple"
-date: "2012-06-15"
 datetime: "2012-06-15T04:27:07.000Z"
 categories: "food"
 tags: "culinary technique,food prep,pineapple"

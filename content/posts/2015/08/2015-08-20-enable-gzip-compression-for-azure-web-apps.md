@@ -1,8 +1,6 @@
 ---
-id: '21681'
 coverImageUri: ''
 title: 'Enable GZIP Compression for Azure Web Apps'
-date: '2015-08-20'
 datetime: '2015-08-20T13:46:39.000Z'
 categories: 'technology'
 tags: 'azure web apps,azure websites,gzip,iis,microsoft azure'

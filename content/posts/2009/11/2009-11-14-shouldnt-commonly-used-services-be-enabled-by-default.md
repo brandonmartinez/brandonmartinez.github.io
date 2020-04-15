@@ -1,8 +1,6 @@
 ---
-id: "761"
 coverImageUri: "763"
 title: "Shouldn't Commonly Used Services Be Enabled By Default?"
-date: "2009-11-14"
 datetime: "2009-11-14T15:58:47.000Z"
 categories: "technology"
 tags: "asp.net,iis7,windows server 2008"

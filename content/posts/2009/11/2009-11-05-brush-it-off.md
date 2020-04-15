@@ -1,8 +1,6 @@
 ---
-id: "661"
 coverImageUri: "663"
 title: "Brush It Off"
-date: "2009-11-05"
 datetime: "2009-11-05T15:00:33.000Z"
 categories: "technology"
 tags: "case mods,iphone"

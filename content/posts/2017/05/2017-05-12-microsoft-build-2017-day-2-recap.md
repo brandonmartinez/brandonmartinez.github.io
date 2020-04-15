@@ -1,8 +1,6 @@
 ---
-id: '26621'
 coverImageUri: 'http://assets.brandonmartinez.com/brandonmartinez/2017/05/20170511016-Web-1000x563.jpg'
 title: 'Microsoft Build 2017 – Day 2 Recap'
-date: '2017-05-12'
 datetime: '2017-05-12T14:08:39.000Z'
 categories: 'technology'
 tags:

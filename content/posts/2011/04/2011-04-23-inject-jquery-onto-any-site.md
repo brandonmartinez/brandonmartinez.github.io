@@ -1,8 +1,6 @@
 ---
-id: "2911"
 coverImageUri: ""
 title: "Inject jQuery Onto Any Site"
-date: "2011-04-23"
 datetime: "2011-04-23T06:23:25.000Z"
 categories: "technology"
 tags: "bookmarklet,chrome,javascript,jquery,web development"

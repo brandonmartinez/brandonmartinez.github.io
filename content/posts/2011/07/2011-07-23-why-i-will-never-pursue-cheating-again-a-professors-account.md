@@ -1,8 +1,6 @@
 ---
-id: "3413"
 coverImageUri: ""
 title: "Why I Will Never Pursue Cheating Again: A Professor's Account"
-date: "2011-07-23"
 datetime: "2011-07-23T04:45:07.000Z"
 categories: "personal"
 tags: "education,shared"

@@ -1,8 +1,6 @@
 ---
-id: "678"
 coverImageUri: "679"
 title: "My Color Workflow"
-date: "2009-11-07"
 datetime: "2009-11-07T14:32:56.000Z"
 categories: "technology"
 tags: "adobe rgb,cmyk,color management,color profiles,gracol,rgb,sheetfed,srgb"

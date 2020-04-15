@@ -1,8 +1,6 @@
 ---
-id: "2609"
 coverImageUri: ""
 title: "Why More Facebook Messaging is a Bad Idea"
-date: "2010-11-16"
 datetime: "2010-11-16T00:58:08.000Z"
 categories: "technology"
 tags: "email,facebook,social media"

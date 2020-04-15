@@ -1,8 +1,6 @@
 ---
-id: "1651"
 coverImageUri: ""
 title: "Exam Tip: Create a Notecard in GDocs"
-date: "2010-04-27"
 datetime: "2010-04-27T13:13:10.000Z"
 categories: "technology"
 tags: "css,google docs"

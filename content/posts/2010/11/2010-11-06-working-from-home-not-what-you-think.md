@@ -1,8 +1,6 @@
 ---
-id: "2571"
 coverImageUri: ""
 title: "Working From Home: Not What You Think"
-date: "2010-11-06"
 datetime: "2010-11-06T16:26:20.000Z"
 categories: "personal"
 tags: "home office,telecommuting,work"

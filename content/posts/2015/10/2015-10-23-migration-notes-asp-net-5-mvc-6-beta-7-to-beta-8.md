@@ -1,8 +1,6 @@
 ---
-id: '23231'
 coverImageUri: ''
 title: 'Migration Notes: ASP.NET 5 MVC 6 - Beta 7 to Beta 8'
-date: '2015-10-23'
 datetime: '2015-10-23T12:00:16.000Z'
 categories: 'technology'
 tags: 'asp.net 5,asp.net dnx,asp.net mvc,git'

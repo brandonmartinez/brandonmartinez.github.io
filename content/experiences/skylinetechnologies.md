@@ -4,6 +4,7 @@ company: 'Skyline Technologies, Inc.'
 companyUri: 'https://www.skylinetechnologies.com/'
 icon: 'skyline.svg'
 startDate: '2013-12-01'
+endDate: '2020-05-13'
 location: 'Remote'
 ---
 

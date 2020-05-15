@@ -58,13 +58,13 @@ const Associations = ({ data, ...rest }) => (
 		</Section.Description>
 		<AssociationGroup>
 			<Association
-				title='Skyline Technologies, Inc.'
-				imgSrc='./skyline.svg'
-				href='https://www.skylinetechnologies.com/'
+				title='Microsoft'
+				imgSrc='./microsoft.svg'
+				href='https://www.microsoft.com/'
 			>
-				My primary employer. I'm a senior software engineer (and shareholder),
-				specializing in cloud development utilizing the Microsoft .NET Core and
-				Node.js web stacks running on Azure and AWS.
+				My primary employer. I'm a senior customer engineer, working on the
+				FastTrack for Azure team. I help independent software vendors better
+				utilize Azure services and bring their products into the cloud.
 			</Association>
 			<Association
 				title='Martinez Media, LLC'

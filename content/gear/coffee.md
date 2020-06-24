@@ -22,6 +22,27 @@ mugs, which easily gets us through the day or through a sitting with friends.
 
 [Order on Amazon.](https://amzn.to/3aZHcKI)
 
+#### Chemex Upgrades
+
+A couple of "upgrades" we've recently picked up include this
+[CoffeeSock](https://amzn.to/3fThIjX). This is a great reusable filter; I would
+highly recommend watching [this video](https://youtu.be/dr_I3ZVKKb4) to learn
+more about reusable filters.
+
+[![CoffeeSock Box - Photo from Amazon](https://images-na.ssl-images-amazon.com/images/I/91aTUKGnXzL._AC_SL1500_.jpg)](https://amzn.to/3fThIjX)
+
+We also picked up this [Chemex Cozy](https://amzn.to/3fZaVFp), which helps keep
+the coffee warm and, let's be honest, is really cute.
+
+[![Chemex Cozy - Photo from Amazon](https://images-na.ssl-images-amazon.com/images/I/819l%2BVYCulL._AC_SL1500_.jpg)](https://amzn.to/3fZaVFp)
+
+We've also been using this
+[ParkBrew Pour Over Coffee Lid](https://amzn.to/3dCWAgF), which also helps keep
+the coffee warm longer and also prevents unwanted things from finding their way
+into the coffee (e.g. fruit flies).
+
+[![ParkBrew Pour Over Coffee Lid - Photo from Amazon](https://images-na.ssl-images-amazon.com/images/I/616blTa63bL._AC_SL1500_.jpg)](https://amzn.to/3dCWAgF)
+
 ### AeroPress
 
 [![AeroPress - Photo from Amazon](https://images-na.ssl-images-amazon.com/images/I/71iwythG2qL._AC_SL1500_.jpg)](https://amzn.to/3edGprk)
@@ -64,6 +85,33 @@ but a French press is so basic that any model would do just fine.
 A simple but easy-to-use frother for getting a good cream foam.
 
 [Order on Amazon.](https://amzn.to/34rR8de)
+
+### HadinEEon N11 Electric Frother and Steamer
+
+[![HadinEEon N11 Electric Frother and Steamer - Photo from Amazon](https://images-na.ssl-images-amazon.com/images/I/51zGm1VqQsL._AC_SL1001_.jpg)](https://amzn.to/385EEdm)
+
+This is an awesome upgrade if you're looking for something more than the
+[AeroLatte](https://amzn.to/34rR8de). This can make both cool and warm frothed
+milk or half-and-half. It's great when you're serving more than a couple of
+people during coffee hour, or if you just like to have a bunch of frothed milk
+on hand.
+
+[Order on Amazon.](https://amzn.to/385EEdm)
+
+### Otis Classic Professional Whipped Cream Maker
+
+[![Otis Classic Professional Whipped Cream Maker - Photo from Amazon](https://images-na.ssl-images-amazon.com/images/I/81SUmYUxd2L._AC_SL1500_.jpg)](https://amzn.to/2YsAb0Z)
+
+If you're looking to make café-style whipped cream and have it instantly, this
+is the product for you! We love how easy it is to create whipped cream, infusing
+flavors into our coffee while creating a very presentable end-product. Highly
+recommended! And of course, you can use this for more than just coffee – it's
+great for desserts and more!
+
+Don't forget to grab a box of [N20 chargers](https://amzn.to/2NqoykV) to load
+the unit.
+
+[Order on Amazon.](https://amzn.to/2YsAb0Z)
 
 ### Starbucks Coffee Mugs
 

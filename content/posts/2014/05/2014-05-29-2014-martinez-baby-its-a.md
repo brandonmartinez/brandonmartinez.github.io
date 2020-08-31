@@ -1,9 +1,9 @@
 ---
-coverImageUri: "16021"
+coverImageUri: '16021'
 title: "2014 Martinez Baby: It's a…"
-datetime: "2014-05-29T17:11:02.000Z"
-categories: "personal"
-tags: "announcements,family"
+datetime: '2014-05-29T17:11:02.000Z'
+categories: 'personal'
+tags: 'announcements,family'
 ---
 
 Boy!

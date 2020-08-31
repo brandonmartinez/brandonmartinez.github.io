@@ -32,7 +32,7 @@ const nextConfig = {
 
 		return config;
 	},
-	exportTrailingSlash: true,
+	trailingSlash: true,
 	exportPathMap: async (defaultPathMap, { dev }) => {
 		if (!dev) {
 			// We're going to generate these after the next.js export, remove them

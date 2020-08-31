@@ -6,7 +6,7 @@ import Images from 'components/shared/Images';
 const favicon = Images.requireSiteOriginal('./favicon.png');
 const appleTouchIcon = Images.requireSiteOriginal('./apple-touch-icon.png');
 
-export default () => (
+const CustomHead = () => (
 	<Head>
 		{/* Meta */}
 		<meta httpEquiv='Content-Type' content='text/html; charset=utf-8' />
@@ -56,3 +56,5 @@ export default () => (
 		<title>brandon martinez | tech guru and media geek</title>
 	</Head>
 );
+
+export default CustomHead;

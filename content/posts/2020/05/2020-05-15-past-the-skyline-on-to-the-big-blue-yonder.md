@@ -3,7 +3,7 @@ coverImageUri: http://assets.brandonmartinez.com/brandonmartinez/2020/05/2020051
 title: 'Past the Skyline, On to the Big Blue Yonder'
 datetime: '2020-05-15T05:00:00.000Z'
 categories: 'personal'
-tags: work, skyline technologies, microsoft'
+tags: 'work, skyline technologies, microsoft'
 excerpt:
   Today is my last day working at Skyline Technologies. In the past
   six-and-a-half years I have built amazing relationships, learned valuable new

@@ -1,16 +1,20 @@
 ---
-coverImageUri: ""
-title: "Resolve an HTTP Error 500.21 in IIS"
-datetime: "2014-07-02T21:30:34.000Z"
-categories: "technology"
-tags: "asp.net,iis"
+coverImageUri: ''
+title: 'Resolve an HTTP Error 500.21 in IIS'
+datetime: '2014-07-02T21:30:34.000Z'
+categories: 'technology'
+tags: 'asp.net,iis'
 ---
 
-If you've setup a new IIS website and app pool and try hosing a .NET application, you may run into this error: _HTTP Error 500.21 - Internal Server Error Handler "ExtensionlessUrlHandler-Integrated-4.0" has a bad module "ManagedPipelineHandler" in its module list_.
+If you've setup a new IIS website and app pool and try hosing a .NET
+application, you may run into this error: _HTTP Error 500.21 - Internal Server
+Error Handler "ExtensionlessUrlHandler-Integrated-4.0" has a bad module
+"ManagedPipelineHandler" in its module list_.
 
 [![HTTP Error 500.21 - Internal Server Error Handler ExtensionlessUrlHandler-Integrated-4.0 has a bad module ManagedPipelineHandler in its module list](http://assets.brandonmartinez.com/brandonmartinez/2014/07/01-501_22-Error-1200x692.png)](http://assets.brandonmartinez.com/brandonmartinez/2014/07/01-501_22-Error.png)
 
-Luckily, it's very easy to resolve. Run the follow command from an elevated command prompt:
+Luckily, it's very easy to resolve. Run the follow command from an elevated
+command prompt:
 
 ```bash
 %windir%\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet\_regiis.exe -i

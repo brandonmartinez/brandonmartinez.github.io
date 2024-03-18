@@ -30,5 +30,6 @@ the table.
 Let's connect and chat about exciting opportunities in cloud! 🚀 You can find me
 at [my personal site](https://www.brandonmartinez.com/),
 [LinkedIn](http://linkedin.brandonmartinez.com/),
+[GitHub](http://github.brandonmartinez.com/),
 [twitter](http://twitter.brandonmartinez.com/), or
 [Instagram](http://instagram.brandonmartinez.com/).

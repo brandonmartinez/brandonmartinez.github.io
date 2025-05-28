@@ -106,7 +106,14 @@
             document
                 .querySelectorAll('.fade-in')
                 .forEach((el, i) => {
-                    setTimeout(() => el.classList.add('show'), i * 150);
+                    const isSocialMediaSection = el.closest('section') && el
+                        .closest('section')
+                        .classList
+                        .contains('flex');
+                    const delay = isSocialMediaSection
+                        ? i * 300
+                        : i * 150;
+                    setTimeout(() => el.classList.add('show'), delay);
                 });
         </script>
     </body>
